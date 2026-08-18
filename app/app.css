@@ -213,6 +213,48 @@ body {
   color: #dc2626;
 }
 
+.live-rate-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .live-rate-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.live-rate-card {
+  padding: 1rem;
+  border: 1px solid rgba(127, 127, 127, 0.2);
+  border-radius: 10px;
+}
+
+.live-rate-label {
+  font-size: 0.85rem;
+  color: rgba(127, 127, 127, 0.9);
+  margin-bottom: 0.4rem;
+}
+
+.live-rate-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.live-rate-date {
+  font-size: 0.75rem;
+  color: rgba(127, 127, 127, 0.8);
+  margin-top: 0.3rem;
+}
+
+.live-rate-state {
+  font-size: 0.9rem;
+  color: rgba(127, 127, 127, 0.8);
+}
+
 .rate-chart-row-label {
   font-size: 0.9rem;
   font-weight: 600;

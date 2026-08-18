@@ -1,5 +1,6 @@
 import type { Route } from "./+types/economy";
 import { RateChart } from "../components/rate-chart";
+import { LiveRates } from "../components/live-rates";
 
 export function meta({}: Route.MetaArgs) {
   return [{ title: "Economy - N_library" }];
@@ -25,6 +26,9 @@ export default function Economy() {
 
       <section className="data-section">
         <h2>환율정보</h2>
+
+        <h3 className="rate-chart-row-label">오늘의 환율</h3>
+        <LiveRates />
 
         <h3 className="rate-chart-row-label">일별 (최근 30일)</h3>
         <div className="rate-charts-grid">
