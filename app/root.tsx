@@ -17,6 +17,31 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="data:," />
+        <script
+          // Single Page Apps for GitHub Pages: decode the 404.html redirect
+          // back into a real history entry before the router hydrates.
+          // https://github.com/rafgraph/spa-github-pages
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function (l) {
+                if (l.search[1] === "/") {
+                  var decoded = l.search
+                    .slice(1)
+                    .split("&")
+                    .map(function (s) {
+                      return s.replace(/~and~/g, "&");
+                    })
+                    .join("?");
+                  window.history.replaceState(
+                    null,
+                    "",
+                    l.pathname.slice(0, -1) + decoded + l.hash
+                  );
+                }
+              })(window.location);
+            `,
+          }}
+        />
         <Meta />
         <Links />
       </head>
