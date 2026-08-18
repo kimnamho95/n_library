@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "";
+const API_URL = "https://n-library-guestbook.kimnamho95.workers.dev";
 
 type Entry = {
   id: number;
