@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { to: "/economy", label: "Economy" },
   { to: "/news", label: "News" },
   { to: "/technology", label: "Technology" },
+  { to: "/guestbook", label: "Guestbook" },
 ];
 
 const MIN_SIDEBAR_WIDTH = 180;
