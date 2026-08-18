@@ -1,0 +1,19 @@
+{
+    "currency_pairs": [
+        {
+            "pair": "PHP_KRW",
+            "base_currency": "PHP",
+            "quote_currency": "KRW"
+        },
+        {
+            "pair": "USD_PHP",
+            "base_currency": "USD",
+            "quote_currency": "PHP"
+        },
+        {
+            "pair": "USD_KRW",
+            "base_currency": "USD",
+            "quote_currency": "KRW"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+name: Update Exchange Rates
+
+on:
+  schedule:
+    # 매일 UTC 20:07 (정각 혼잡을 피하기 위해 7분으로 설정)
+    - cron: "7 20 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-rates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Update exchange rates
+        run: |
+          python scripts/create_daily.py
+
+      - name: Check changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/data/rate_info
+
+          git commit -m "Update exchange rates"
+
+          git push
