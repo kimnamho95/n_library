@@ -6,4 +6,4 @@ account_id = "6e4526f8a97c1a34d4f4101cf493e291"
 [[d1_databases]]
 binding = "DB"
 database_name = "n-library-guestbook"
-database_id = "REPLACE_WITH_DATABASE_ID"
+database_id = "209498df-5dc0-4b84-a32a-f5fa8229f71c"
