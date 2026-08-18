@@ -1,0 +1,22 @@
+name: Deploy Stock Proxy Worker
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "cloudflare/stock-proxy/**"
+      - ".github/workflows/deploy-worker.yml"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Deploy Worker
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          workingDirectory: cloudflare/stock-proxy
