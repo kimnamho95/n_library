@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 
-// TODO: replace with the deployed Cloudflare Worker URL
-// (cloudflare/stock-proxy), e.g. https://n-library-stock-proxy.<subdomain>.workers.dev
-const PROXY_URL = "";
+const PROXY_URL = "https://n-library-stock-proxy.kimnamho95.workers.dev";
 
 const MAX_TICKERS = 10;
 const STORAGE_KEY = "stock-watchlist";
