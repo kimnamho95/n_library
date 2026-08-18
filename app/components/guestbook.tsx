@@ -6,6 +6,7 @@ type Entry = {
   id: number;
   name: string;
   message: string;
+  ip: string | null;
   created_at: string;
 };
 
@@ -106,7 +107,10 @@ export function Guestbook() {
         {entries?.map((entry) => (
           <div key={entry.id} className="guestbook-entry">
             <div className="guestbook-entry-header">
-              <span className="guestbook-entry-name">{entry.name}</span>
+              <span className="guestbook-entry-name">
+                {entry.name}
+                {entry.ip && <span className="guestbook-entry-ip"> ({entry.ip})</span>}
+              </span>
               <span className="guestbook-entry-date">{entry.created_at}</span>
             </div>
             <p className="guestbook-entry-message">{entry.message}</p>

@@ -24,6 +24,21 @@ function json(body, status, headers) {
   });
 }
 
+// Keeps the first 2 and last 2 characters, masks everything else
+// except separators ("." for IPv4, ":" for IPv6).
+function maskIp(ip) {
+  if (!ip) return null;
+  const len = ip.length;
+  return ip
+    .split("")
+    .map((ch, i) => {
+      if (i < 2 || i >= len - 2) return ch;
+      if (ch === "." || ch === ":") return ch;
+      return "*";
+    })
+    .join("");
+}
+
 export default {
   async fetch(request, env) {
     const headers = corsHeaders(request);
@@ -34,11 +49,12 @@ export default {
 
     if (request.method === "GET") {
       const { results } = await env.DB.prepare(
-        "SELECT id, name, message, created_at FROM entries ORDER BY id DESC LIMIT ?"
+        "SELECT id, name, message, ip, created_at FROM entries ORDER BY id DESC LIMIT ?"
       )
         .bind(LIST_LIMIT)
         .all();
-      return json(results, 200, headers);
+      const masked = results.map((row) => ({ ...row, ip: maskIp(row.ip) }));
+      return json(masked, 200, headers);
     }
 
     if (request.method === "POST") {
@@ -51,18 +67,19 @@ export default {
 
       const name = String(body.name || "").trim().slice(0, NAME_MAX_LEN);
       const message = String(body.message || "").trim().slice(0, MESSAGE_MAX_LEN);
+      const ip = request.headers.get("CF-Connecting-IP") || null;
 
       if (!name || !message) {
         return json({ error: "name and message are required" }, 400, headers);
       }
 
       const result = await env.DB.prepare(
-        "INSERT INTO entries (name, message) VALUES (?, ?) RETURNING id, name, message, created_at"
+        "INSERT INTO entries (name, message, ip) VALUES (?, ?, ?) RETURNING id, name, message, ip, created_at"
       )
-        .bind(name, message)
+        .bind(name, message, ip)
         .first();
 
-      return json(result, 201, headers);
+      return json({ ...result, ip: maskIp(result.ip) }, 201, headers);
     }
 
     return json({ error: "method not allowed" }, 405, headers);
