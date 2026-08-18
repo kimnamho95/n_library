@@ -1,0 +1,9 @@
+node_modules
+
+/.cache
+/build
+/server-build
+.env
+.DS_Store
+/app/generated
+.react-router
