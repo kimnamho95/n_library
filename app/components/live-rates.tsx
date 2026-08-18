@@ -52,20 +52,20 @@ export function LiveRates() {
         <div key={r.pair} className="live-rate-card">
           <div className="live-rate-label">{r.label}</div>
           {r.status === "loading" && (
-            <div className="live-rate-state">조회 중…</div>
+            <div className="live-rate-state">Loading…</div>
           )}
           {r.status === "error" && (
-            <div className="live-rate-state">조회 실패</div>
+            <div className="live-rate-state">Failed to load</div>
           )}
           {r.status === "ok" && (
             <>
               <div className="live-rate-value">
-                {r.rate!.toLocaleString("ko-KR", {
+                {r.rate!.toLocaleString("en-US", {
                   minimumFractionDigits: 2,
                   maximumFractionDigits: 2,
                 })}
               </div>
-              <div className="live-rate-date">{r.date} 기준</div>
+              <div className="live-rate-date">As of {r.date}</div>
             </>
           )}
         </div>

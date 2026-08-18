@@ -45,7 +45,7 @@ function niceTicks(min: number, max: number, tickCount: number) {
 }
 
 function formatValue(v: number) {
-  return v.toLocaleString("ko-KR", {
+  return v.toLocaleString("en-US", {
     minimumFractionDigits: 2,
     maximumFractionDigits: 2,
   });
@@ -101,14 +101,14 @@ export function RateChart({
           .sort((a, b) => (a.key < b.key ? -1 : 1));
         setPoints(parsed);
       })
-      .catch(() => setError("데이터를 불러오는데 실패했습니다."));
+      .catch(() => setError("Failed to load data."));
   }, [pair, granularity]);
 
   const sub =
     granularity === "monthly"
-      ? "월평균 · 출처: Frankfurter"
-      : "최근 30일 · 출처: Frankfurter";
-  const columnLabel = granularity === "monthly" ? "월" : "날짜";
+      ? "Monthly average · Source: Frankfurter"
+      : "Last 30 days · Source: Frankfurter";
+  const columnLabel = granularity === "monthly" ? "Month" : "Date";
 
   function handlePointerMove(e: React.PointerEvent<SVGRectElement>) {
     if (!points || points.length === 0) return;
@@ -176,7 +176,7 @@ export function RateChart({
               y={yAt(t) + 3}
               textAnchor="end"
             >
-              {t.toLocaleString("ko-KR")}
+              {t.toLocaleString("en-US")}
             </text>
           </g>
         ))}
@@ -271,15 +271,15 @@ export function RateChart({
   return (
     <div className="rate-chart-card">
       <div className="rate-chart-header">
-        <h3>{label} 환율</h3>
+        <h3>{label} Rate</h3>
         <p className="rate-chart-muted">{sub}</p>
       </div>
 
       <div className="rate-chart-wrap">
         {error && <p className="rate-chart-state-msg">{error}</p>}
-        {!error && !points && <p className="rate-chart-state-msg">불러오는 중…</p>}
+        {!error && !points && <p className="rate-chart-state-msg">Loading…</p>}
         {!error && points && points.length === 0 && (
-          <p className="rate-chart-state-msg">표시할 데이터가 없습니다.</p>
+          <p className="rate-chart-state-msg">No data to display.</p>
         )}
         {chartBody}
         {hoverTooltip}
@@ -292,7 +292,7 @@ export function RateChart({
             className="rate-chart-toggle-btn"
             onClick={() => setShowTable((v) => !v)}
           >
-            {showTable ? "차트로 보기" : "표로 보기"}
+            {showTable ? "View chart" : "View table"}
           </button>
 
           {showTable && (
@@ -301,7 +301,7 @@ export function RateChart({
                 <thead>
                   <tr>
                     <th>{columnLabel}</th>
-                    <th>환율</th>
+                    <th>Rate</th>
                   </tr>
                 </thead>
                 <tbody>
