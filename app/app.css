@@ -388,6 +388,23 @@ body {
   font-size: 0.9rem;
 }
 
+.guestbook-admin-toggle {
+  align-self: flex-start;
+  padding: 0.3rem 0.7rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: rgba(127, 127, 127, 0.9);
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.guestbook-admin-toggle:hover {
+  background-color: rgba(127, 127, 127, 0.15);
+}
+
 .guestbook-entries {
   display: flex;
   flex-direction: column;
@@ -427,6 +444,27 @@ body {
   margin: 0;
   white-space: pre-wrap;
   word-break: break-word;
+}
+
+.guestbook-delete-btn {
+  margin-top: 0.5rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid rgba(220, 38, 38, 0.4);
+  background: transparent;
+  color: #dc2626;
+  font: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.guestbook-delete-btn:hover {
+  background-color: rgba(220, 38, 38, 0.1);
+}
+
+.guestbook-delete-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
 }
 
 .rate-chart-row-label {

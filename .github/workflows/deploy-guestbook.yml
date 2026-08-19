@@ -20,5 +20,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           workingDirectory: cloudflare/guestbook
-          preCommands: wrangler d1 execute n-library-guestbook --remote --file=schema.sql
+          preCommands: wrangler d1 migrations apply n-library-guestbook --remote
           command: deploy
