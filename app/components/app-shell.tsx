@@ -62,7 +62,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
       <button
         type="button"
         className="hamburger-btn"
-        aria-label="메뉴 열기"
+        aria-label="Open menu"
         aria-expanded={isSidebarOpen}
         onClick={() => setSidebarOpen(true)}
       >
@@ -87,7 +87,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           <button
             type="button"
             className="sidebar-close-btn"
-            aria-label="메뉴 닫기"
+            aria-label="Close menu"
             onClick={() => setSidebarOpen(false)}
           >
             ✕
@@ -110,7 +110,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           onMouseDown={startResizing}
           role="separator"
           aria-orientation="vertical"
-          aria-label="사이드바 크기 조절"
+          aria-label="Resize sidebar"
         />
       </aside>
 

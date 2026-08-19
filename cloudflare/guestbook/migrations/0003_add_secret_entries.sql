@@ -1,0 +1,3 @@
+ALTER TABLE entries ADD COLUMN is_secret INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE entries ADD COLUMN secret_salt TEXT;
+ALTER TABLE entries ADD COLUMN secret_hash TEXT;

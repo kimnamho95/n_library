@@ -446,8 +446,78 @@ body {
   word-break: break-word;
 }
 
-.guestbook-delete-btn {
+.guestbook-secret-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: rgba(127, 127, 127, 0.9);
+}
+
+.guestbook-password-input {
+  padding: 0.6rem 0.8rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+}
+
+.guestbook-secret {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.guestbook-secret-placeholder {
+  margin: 0;
+  color: rgba(127, 127, 127, 0.8);
+}
+
+.guestbook-unlock-btn {
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.guestbook-unlock-btn:hover {
+  background-color: rgba(127, 127, 127, 0.15);
+}
+
+.guestbook-unlock-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.guestbook-entry-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   margin-top: 0.5rem;
+}
+
+.guestbook-comments-toggle-btn {
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.guestbook-comments-toggle-btn:hover {
+  background-color: rgba(127, 127, 127, 0.15);
+}
+
+.guestbook-delete-btn {
+  margin-top: 0;
   padding: 0.25rem 0.6rem;
   border-radius: 6px;
   border: 1px solid rgba(220, 38, 38, 0.4);
@@ -463,6 +533,106 @@ body {
 }
 
 .guestbook-delete-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.guestbook-comments {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(127, 127, 127, 0.2);
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.guestbook-comment {
+  padding: 0.5rem 0.7rem;
+  border-left: 2px solid rgba(127, 127, 127, 0.25);
+}
+
+.guestbook-comment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.2rem;
+}
+
+.guestbook-comment-name {
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.guestbook-comment-date {
+  font-size: 0.7rem;
+  color: rgba(127, 127, 127, 0.8);
+}
+
+.guestbook-comment-message {
+  margin: 0;
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.guestbook-comment-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.3rem;
+}
+
+.guestbook-comment-reply-btn {
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
+
+.guestbook-comment-reply-btn:hover {
+  background-color: rgba(127, 127, 127, 0.15);
+}
+
+.guestbook-comment-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.guestbook-comment-form input,
+.guestbook-comment-form textarea {
+  padding: 0.5rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.85rem;
+  resize: vertical;
+}
+
+.guestbook-comment-submit-btn {
+  align-self: flex-start;
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.guestbook-comment-submit-btn:hover {
+  background-color: rgba(127, 127, 127, 0.15);
+}
+
+.guestbook-comment-submit-btn:disabled {
   opacity: 0.6;
   cursor: default;
 }
