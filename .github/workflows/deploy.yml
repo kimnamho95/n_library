@@ -3,6 +3,12 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # A push made with the default GITHUB_TOKEN (like update-rates.yml's
+  # commit) doesn't trigger other workflows' `push` events, so exchange
+  # rate updates need this separate trigger to actually get deployed.
+  workflow_run:
+    workflows: ["Update Exchange Rates"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +22,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
