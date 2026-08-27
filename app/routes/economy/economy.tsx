@@ -1,7 +1,7 @@
 import type { Route } from "./+types/economy";
-import { RateChart } from "../components/rate-chart";
-import { LiveRates } from "../components/live-rates";
-import { Watchlist } from "../components/watchlist";
+import { RateChart } from "./rate-chart";
+import { LiveRates } from "./live-rates";
+import { Watchlist } from "./watchlist";
 
 export function meta({}: Route.MetaArgs) {
   return [{ title: "Economy - N_library" }];

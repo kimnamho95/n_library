@@ -1,5 +1,5 @@
 import type { Route } from "./+types/guestbook";
-import { Guestbook } from "../components/guestbook";
+import { Guestbook } from "./guestbook-panel";
 
 export function meta({}: Route.MetaArgs) {
   return [{ title: "Guestbook - N_library" }];
