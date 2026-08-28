@@ -1,18 +1,18 @@
 {
   "source": "Google News (KR)",
-  "updated_at": "2026-08-28T01:57:46.771860+00:00",
+  "updated_at": "2026-08-28T02:09:47.027794+00:00",
   "items": [
+    {
+      "title": "“폭우 쏟아진 것도 아닌데 거대한 물벽 덮쳐” 기후변화의 재앙",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qZHFJakdfV2Nrb3hqcVU1cmNqakJXUmRldS14S1g2YjlXWExwWmRQdnprWEdTejd5SGJ5bEFmRlpWQ0pNdk94Vm5tV2FXLXlGTTFMMmlHT2lEN0xlV28wS3JZTGNoWF9TZEZyR1Q2QzE2ZG_SAWZBVV95cUxPb2dfOVZlUE9ZVWtIRk5vYy1HaE1EUVplVWhyZ0xXQTA5cXRzM2pJZnlOb25HNVNBYjRuRGxPQUxfaUxRZG52TmVlUjJIb2hYZHhDR3hrTnoyLWxpWGhqTk1OVVMzX1E?oc=5",
+      "source": "동아일보",
+      "published": "2026-08-27T19:30:00+00:00"
+    },
     {
       "title": "이 대통령 지지율 42%, 최저치 경신…부정평가 이유 1위 ‘부동산 정책’[한국갤럽]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94aTJDSnNZVWttaHkwa211Q3gwVmJWaFdCdmVQSUJucWo3TXR4ZzRhQVc4RjAyOU5pMVRTbXlHS0N2YmhyQXRaSTBWZ3ctbjk2dm50S1VMc0xsZ9IBX0FVX3lxTFA3T1VvcGZTQnNJeVl2VXh1QW5UM3kyU0plQ3FQdTV1Mmx3Vk1hVkVERXJxdXY1N1FWNnN5N1JfZW5WSk5CcmxRcHo0X0E1YURMckpIbnNHVVg1LW9ROVdR?oc=5",
       "source": "경향신문",
       "published": "2026-08-28T01:25:00+00:00"
-    },
-    {
-      "title": "김민석 “당 단합·외연 확장에 지도부 모두 함께 할 것”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DRTBMUlo1d1JoVkkyclJQV1BlXzV2bVRzVGZxMHFMRUZCTHFJX2s2UnUyMUxjWWM1YWQ2dkhYSlExVkhBbmNGZEc4UTZ4S3JYUTZrc0xGUjFJUGFyeE1xbXdRbXB3eGptYk54bzk5WXdzZDJ3?oc=5",
-      "source": "한겨레",
-      "published": "2026-08-28T01:13:00+00:00"
     },
     {
       "title": "’충청 메가프로젝트’에 지천댐 짓는다…신규 댐 5곳 건설 결정",
@@ -21,10 +21,10 @@
       "published": "2026-08-28T00:00:00+00:00"
     },
     {
-      "title": "정부, 네팔 홍수로 한국인 9명 연락 두절에 '합동신속대응팀' 급파",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHNtY1pVeVIydDh1bXdWaFFVS0ZEcld5RnE5WmdNRkdUQTNuN3ZQc2xELU1sUGRyeGJuOXV3QmhMYjhVVDJZWFpCYVpjUVlyQzBuS2g3d1cxUzVRTWsyOXB4UHpDMEZaTnNPSGRiQXJzbmdlajdteDQ0NzdrOEQzbEZ6S1ZoSXJwZHc?oc=5",
-      "source": "대한민국 정책브리핑",
-      "published": "2026-08-27T05:25:57+00:00"
+      "title": "김민석 “당 단합·외연 확장에 지도부 모두 함께 할 것”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DRTBMUlo1d1JoVkkyclJQV1BlXzV2bVRzVGZxMHFMRUZCTHFJX2s2UnUyMUxjWWM1YWQ2dkhYSlExVkhBbmNGZEc4UTZ4S3JYUTZrc0xGUjFJUGFyeE1xbXdRbXB3eGptYk54bzk5WXdzZDJ3?oc=5",
+      "source": "한겨레",
+      "published": "2026-08-28T01:13:00+00:00"
     },
     {
       "title": "유학생 살해 혐의 중국인 ‘사이코패스 검사’ 거부···경찰, 시신 수색 계속",
@@ -33,16 +33,22 @@
       "published": "2026-08-28T00:12:00+00:00"
     },
     {
-      "title": "폭염 데려가는 비…‘대프리카’ 탈출하고 동해안은 ‘선선’",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRlIwM0dtQ1BlVk1OU3ByY2NvY0hRbEJNT2tLdjAyYmJ0UlZCbVFwcXh2bl9zVzJOMVNRaTRvRTZoTkFBaVVsbV9sT1ZQWXBxUGQxR3lncFBnRVE?oc=5",
-      "source": "KBS 뉴스",
-      "published": "2026-08-28T00:05:00+00:00"
+      "title": "‘최대 80㎜’ 전국 대부분 비·소나기…체감 33도 무더위 계속",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Nd1Izck1Ma2hLNGVKNzRGUzU0ekVTV1Z5VEx6bEtBZXRqTTZaUWpuRjRSaDMyOEtNMjQwdUlQenUyNVUxeUI0VEVIVHBiNWgwUmFUZE45cHpoUDJ1ZFdWTlB3ZURkaFVfT0lZSw?oc=5",
+      "source": "한겨레",
+      "published": "2026-08-27T23:47:00+00:00"
     },
     {
-      "title": "[단독]‘교통사고 사망’ 허위종결 경찰, 재신고에 장씨 위치 4번 추적",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSk1UWjIwZ3hhVFgta2tyeEE4VU05MHRiT1l6TUY5M2pZalJIUVNXVHVXX1FTWW5uSVVfc0NiZ20xdWJ3cHRnREpDS2RQUUk0LVFaZzllYlBLcnlMM0x0RUdkMGVtZktVUElWZUN2Q1FMZlNWaUHSAWZBVV95cUxPaF8wNmVHRnJCX3VqZEJ3bFhLbHNxcnNQV0Q3VWYyRkJNcWQ0c0hXb3B3ZVYwZmVQbWhXRlE0R0cyWVM5aXRWV3hCSkRqVUhBMlNfQkJnbFo0U25Vb0xZdmdaVGNhc3c?oc=5",
-      "source": "동아일보",
-      "published": "2026-08-27T07:36:00+00:00"
+      "title": "한성숙 “경찰개혁 기구, 내부에 두긴 어려워…일처리 방식 심각”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmQnNncXRUQlA2bU5jZngxZlM5Ujd4eEE2QXI5Y0hySGxvdlgtVlFSNndKd3gyLVRoSmEydDRmbzRnZjNoV29xaUhSMDNpX1lBR2UwSjN0a2RNOHRxb2Nvdm5SRFlTRno4REE?oc=5",
+      "source": "한겨레",
+      "published": "2026-08-27T07:20:00+00:00"
+    },
+    {
+      "title": "[단독] 혐오·차별 막자면서 ‘성소수자’ 제외한 교육부",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ucHVyZ2xPNHUxTzVGanprNURCOUNURERiR2xoamtxMV95RksyUTVFWkMxdFY3MFk1RG9mWmVwNXVrb0JkbFdTbnlUWDJrckxzUlJGU0RVMElSMUJRcXByeHhkbUVyZ0lJd3c?oc=5",
+      "source": "한겨레",
+      "published": "2026-08-28T00:07:00+00:00"
     },
     {
       "title": "경기남부, 최근 3년간 소재 파악 안 된 실종 55건",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLaUJVcXdEVEhJLWZnbVM1LWNERldhYUhjVF85cTNRLWxfQlMyYTBRVHNWUWpMUmRhX28ycGRnX010X196ZVNkRkFGQlNWUWFHNUhlM0F3SWlReHlRdU1IT0pkcXpHQQ?oc=5",
       "source": "KBS 뉴스",
       "published": "2026-08-28T01:39:00+00:00"
-    },
-    {
-      "title": "박근혜 “국힘, 나비 되는 과정”…전원 기립박수 받아",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSGZNQU5ZQVBuQTBUWnJ0dWdVOEVIYVFMVjd4S2M5Tm9uZXlsN0drc1FTVThOeVlTS2JyNUdxa18teUdfZzhOM1VRSjYyMFEwU0JoS0xlVlIwSHBjZ1N1eWdGNzU1dFFqMEFpLXVsdV80TGhJQ1pj0gFmQVVfeXFMTVdnZG83ajIzRVhlenRWN3BIRUtuNWNkaHNPQjFpNmZaMDBsSnV2YXpuX09IcmRyRTJPR1ZrRXVHUlVMYVNwTm1FSW5vVjdsX2k5QlBWSE1NQlVfM1pJSk4tbXlfblhB?oc=5",
-      "source": "동아일보",
-      "published": "2026-08-27T07:59:00+00:00"
     },
     {
       "title": "\"내 새끼발가락만도 못해\"…트럼프와 맞붙는 캐나다 온타리오 총리",
@@ -93,16 +93,16 @@
       "published": "2026-08-28T01:09:44+00:00"
     },
     {
-      "title": "기준금리 2회 연속 인상…고물가·가계부채에 고삐",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oa0tOUGlJWjBlbGtqbldCdEtfZlFZZ2piRzVxeVZYd2FfRzdEVkpyTkxKRDFGZkhxYUJFbUtrUHlkRWZoemxhSEJRU29hY19uNTdJQXBVZnhtZUk?oc=5",
+      "title": "금리 상승에 취약차주 부담 우려…정부, 채무조정·금융지원 확대",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBER0JDeGowVTRjcFpvMzNjQk43Z1ZUb1JnNmx1dzdJV3kwXzJ3ZE5tNnRNZkloXzBRZWNNWndTM1QtMURfNEJEY2tFLWtjRDY2R3FLM0V1dVZxWUU?oc=5",
       "source": "KBS 뉴스",
-      "published": "2026-08-27T12:38:00+00:00"
+      "published": "2026-08-27T23:31:00+00:00"
     },
     {
-      "title": "정부, 코로나 때 쌓인 소상공인 빚 손본다…장기연체 적극 채무조정",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92T2VSNHRhemROcDBSS3AzRjN1YURiaHEyWnlUdDcxb3F3NUVkb21vYTZjSTFIaGNsME1CUnl4OHJmRm5QWFlGMzk1RUE5eWtsREVWWHdMTFNZM2FUN2ZnSEJPWW9Gc2RGUklURVV5UnA?oc=5",
-      "source": "연합인포맥스",
-      "published": "2026-08-27T23:30:00+00:00"
+      "title": "기준금리 3%대 재진입...한은 “물가 오름세 대응”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zdkhtVXZQMmotTkxrNzlUb251ZkhyT0xzeTBRMVA3MVBxaEVoWU1sR041QU5hQWNURnV2Ri1aUmlDbE1GUndrS1pFemhabms?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-08-27T15:09:26+00:00"
     },
     {
       "title": "’실적발표 징크스’ 깬 엔비디아…시총 610조원↑",
@@ -123,10 +123,10 @@
       "published": "2026-08-26T14:10:04+00:00"
     },
     {
-      "title": "포켓몬 고, 2026 피카츄의 가을 소풍 예고",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YOXNvekx4QkI0cmxvSGFhUWtpcVNDNkRPNEFranBxUWk1N3pzOEM4bkFHT3dXcWw2VDFaMHBIbXNGSTd0c1RXZHNiUl85TFJ2N19YUW1kTFlBS0pOZDdSVEFCaEc?oc=5",
-      "source": "베타뉴스",
-      "published": "2026-08-28T01:22:27+00:00"
+      "title": "양지은·오유진, ‘주문쏭’ 대구 물회집 일일 알바생 변신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ldUZDel80ZkdXNUFmNWJxck5ZUV9haE1EanhNSUpqM0I1WmdvOUZPQjJjOXpjMXJiVDN5emNLMXJZZkdFT0t4RVI5LU9iOUo5U1NMZGJ1cFJNM1U5Uk5YZlU3MVZaQQ?oc=5",
+      "source": "싱글리스트",
+      "published": "2026-08-28T01:36:13+00:00"
     },
     {
       "title": "\"우리 어떤 소원 빌까?\"",
@@ -147,28 +147,28 @@
       "published": "2026-08-27T22:19:43+00:00"
     },
     {
-      "title": "김희철 이어 민경훈까지…'아는 형님' 측 \"하차 아닌 휴식기\" [공식]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsUXU4QlpqR1g4WGZoZUszeVYxRmNwdFZRWExFcHBFbUhDOWdqd3FMV0pRd1lnam5aZTZ4bWFrMXpDeEMyYnd5V0VybzZOU3ZfRUo5VUFHMzFYQQ?oc=5",
-      "source": "한국경제",
-      "published": "2026-08-28T00:38:51+00:00"
-    },
-    {
       "title": "한기범, 투자사기 피해자였다..\"전 재산 날려 셋방상이\" - 조선비즈",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXdJUXpPR2MtUjFiZUFQM3d3NWhjYXBobTFYWi0yRWdiOC1fOUplWVluTlJvR1hOUHpabzRVbHVsekFOVDh6cFU1RDVJZUhtaHFuSnJFZlg1VFI4Z0psQVZPQ0ZwN3ptclNnV3lFRVNnSmNHN29ZQnJKdkRsRkVBN0V0ejJ6QndyTnZqTk4tSllRR0nSAacBQVVfeXFMT2R1SzRjMlJ0NEx2QkwwSWZabVZra2xpNEdlV0hfR0RfdGlHLUVmSUExVXR3VmJHRVkwc1Itam9OMVNXNHJSM1hFT2VSaUdKMEg2UHBCWjVRUmRNVVBQU3lodE92bk1WbjdxbEFMSHdMS0FvSDJOVGxZaTZRaGxySVRKdUxLMFpUWlFHUzZPdDNfNzBydmctVlM4VlN0TzBNdUNCZVU5WUU?oc=5",
       "source": "Chosunbiz",
       "published": "2026-08-27T22:28:00+00:00"
     },
     {
-      "title": "“억측 그만” 안나, 암 투병 후 넷째 임신에 “의사 확인받고 결정” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW0tTElOSERuVHBValRQTUZKUHpIYUdYNVRha0g4Qjh5OEU1RnllSEZLSE1JUnRwbDBzUVFMTTB5bkJaUnp2bjU2dnRvMHMwSjFYNUlRcWJrUFJTQzRBUWg3cEFSc1RhV0FEV1dYZkVsMVA2aklRNE5FdldwUUJFWllzd1N5Uko2YkU4b2pMTkVXRUXSAacBQVVfeXFMTVFZMk11QVZIOUJ5Z19UVDlNOTRzOW5DOWw0b3ZncmJBS0hpU1BwVFVlUTRNcERtaEt1UU45MV8zLW5JU0FpTHducklDRDhMOXIwUDBYS1o0NC11QUkwd1hucC1EYlUtLU5LWndVNXpDbVBTRG96QWdqTTY1NjNQV0ptRDg1Mk4wb0VKYWloNGllT1RQM0FEZ3hERmEweW9xdEw2Y3Y3UnM?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-08-27T22:34:00+00:00"
+      "title": "‘사망설’ 나돌던 이연걸 흑발에… ‘늙크크’ 근황 [DA★]",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84SGt6NFlkejczcXhEem9fSWZka1BJcTRWaWNRUi1tb2d0WExhMUxJd1JaZlo2a1dGN1NDNHg4MXRVRk5PbXlkMTlXc1dDYWkzNHpPaGpQcVFmeHk1bVBRMGxSVjQ0aGcwcWxaVNIBYkFVX3lxTE4yUi1FdEtwYjNvWWNnSk16MkhwTy16a2UtclYwTU44aFdYR1hXY29VaVBreERwMF9jYzVMTk1UTURMLXQ2VGl4Q2ppbkhtNlpjWUhEUG0yejhXb1kwS01kTnJn?oc=5",
+      "source": "동아일보",
+      "published": "2026-08-27T15:10:53+00:00"
     },
     {
-      "title": "아틀레티코 이강인 vs 뮌헨 김민재…UCL ‘코리안 더비’ 성사",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQnVfaHd4dThBRVgtY2E5SE5FdGt0cjRIVXZUS084cDluTmsxMDFlV2NMUUlFMDBzSnlnS2NXUkpsWlg0dGVDU3VrV1ZwQmJJVWhLcjBGUDBieGs?oc=5",
-      "source": "KBS 뉴스",
-      "published": "2026-08-28T01:22:00+00:00"
+      "title": "‘박주호♥’안나, 넷째는 韓서 출산…“산후조리원 경험해보고 싶어”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5adEVYRDFOUE9hMDNXREc1eFhCSDl0MTljbTJxbXZnMGxvQmRyQWRZOFNqTTB3Z1NKUVF4S2RQODk3bmZUYW95YXBpQ0hSejY1QzZmeWw1clJTUzJLQlHSAWNBVV95cUxQSTZlZDNGSkptT0xVVHpJalVEUlFlVjNmYVlYRU53bllJNVJrLUN2ejRWRGNjWUtIMGFiVXZYRVlxcUFNMTNQcXlHdU15SklwTjRkejVubE9BcDVaazlZcl9mWjA?oc=5",
+      "source": "스포츠경향",
+      "published": "2026-08-27T22:49:00+00:00"
+    },
+    {
+      "title": "UCL 리그 페이즈부터 코리안 더비 성사…이강인 ATM vs 김민재 뮌헨",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTVlrU25RbVQwc3VQWnZlWUZLdGw2c0l4YXB3TzlWbExPajNSQWc1d0l0V3ZwVFdyVUJTc21zUWNtZlVTUm1EUUxwUWRkS1MyZ1hCSnFZVDV0QnBDZWYyLUw4cGl0bW8?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-08-28T01:49:00+00:00"
     },
     {
       "title": "‘김상식 매직’… 베트남, 태국 꺾고 아세안 현대컵 2연패",
@@ -177,10 +177,10 @@
       "published": "2026-08-27T19:30:00+00:00"
     },
     {
-      "title": "타율 0.066 김하성 드디어 터졌다… 다저스 상대 통산 2호 끝내기 안타",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUQ5RUU0cFcyY1hiQS1ZVDBXd05oOW1pYVA5cXBDRjNHVmVsRXNBTzBHZThPMGFiMkVaSUFJRGl5UURCMlJyNHJRMm5FTks5Z3FqUFVrWlBoUGNnX1I1VXN1b0tqcUYyRUVYbjNNSHNUbnBLS0VzaWR6VVVKakhmQmx0WDVzSHZUdmlDRQ?oc=5",
-      "source": "서울신문",
-      "published": "2026-08-27T16:05:06+00:00"
+      "title": "MLB 애틀랜타 김하성, 20일 만에 선발 출전해 1안타 1도루",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQeXJ6NDc2UE1fbFVzYzU5VXZvVXZnYzloOXZQS3NYLVFGb01HNEtjUGFFYXZlMGdIZERjR3ZYVXVxRHdZTk5aWk9yXzd5ODZKUjlNWGhnZEEzb0g2bHpOYVdUNWUydw?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-08-28T01:48:00+00:00"
     }
   ]
 }

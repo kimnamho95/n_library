@@ -151,7 +151,7 @@ result = {
     "items": items
 }
 
-with open(output_file, "w", encoding="utf-8") as file:
+with open(output_file, "w", encoding="utf-8", newline="\n") as file:
     json.dump(result, file, ensure_ascii=False, indent=2)
 
 print()

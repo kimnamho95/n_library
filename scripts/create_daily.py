@@ -232,7 +232,8 @@ for pair_info in currency_pairs:
     with open(
         daily_file,
         "w",
-        encoding="utf-8"
+        encoding="utf-8",
+        newline="\n"
     ) as file:
 
         json.dump(
@@ -440,7 +441,8 @@ for pair_info in currency_pairs:
     with open(
         monthly_file,
         "w",
-        encoding="utf-8"
+        encoding="utf-8",
+        newline="\n"
     ) as file:
 
         json.dump(
