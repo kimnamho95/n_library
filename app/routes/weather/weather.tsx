@@ -1,4 +1,5 @@
 import type { Route } from "./+types/weather";
+import { Forecast } from "./forecast";
 
 export function meta({}: Route.MetaArgs) {
   return [{ title: "Weather - N_library" }];
@@ -13,6 +14,8 @@ export default function Weather() {
       <h1>Weather</h1>
 
       <section className="data-section">
+        <Forecast />
+
         <div className="weather-embed">
           <iframe
             src={EARTH_NULLSCHOOL_URL}
