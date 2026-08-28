@@ -7,7 +7,7 @@ on:
   # commit) doesn't trigger other workflows' `push` events, so exchange
   # rate updates need this separate trigger to actually get deployed.
   workflow_run:
-    workflows: ["Update Exchange Rates", "Update News"]
+    workflows: ["Update Exchange Rates", "Update News", "Update Stock List"]
     types: [completed]
   workflow_dispatch:
 

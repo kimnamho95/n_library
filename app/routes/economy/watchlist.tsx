@@ -1,18 +1,10 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 const PROXY_URL = "https://n-library-stock-proxy.kimnamho95.workers.dev";
 
 const MAX_TICKERS = 10;
+const MAX_SUGGESTIONS = 8;
 const STORAGE_KEY = "stock-watchlist";
-
-const SUGGESTIONS = [
-  { ticker: "005930", name: "Samsung Electronics" },
-  { ticker: "000660", name: "SK Hynix" },
-  { ticker: "035420", name: "NAVER" },
-  { ticker: "035720", name: "Kakao" },
-  { ticker: "005380", name: "Hyundai Motor" },
-  { ticker: "000270", name: "Kia" },
-];
 
 type Quote = {
   status: "loading" | "ok" | "error";
@@ -22,6 +14,8 @@ type Quote = {
   changeRatio?: number;
   marketStatus?: string;
 };
+
+type StockInfo = { ticker: string; name: string; market: string };
 
 function loadTickers(): string[] {
   if (typeof window === "undefined") return [];
@@ -38,6 +32,8 @@ export function Watchlist() {
   const [quotes, setQuotes] = useState<Record<string, Quote>>({});
   const [inputValue, setInputValue] = useState("");
   const [formError, setFormError] = useState<string | null>(null);
+  const [stockList, setStockList] = useState<StockInfo[]>([]);
+  const [showDropdown, setShowDropdown] = useState(false);
 
   useEffect(() => {
     setTickers(loadTickers());
@@ -54,6 +50,28 @@ export function Watchlist() {
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [tickers]);
+
+  useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}data/stocks/list.json`)
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
+      .then((data: { items: StockInfo[] }) => setStockList(data.items))
+      .catch(() => setStockList([]));
+  }, []);
+
+  const matches = useMemo(() => {
+    const query = inputValue.trim().toLowerCase();
+    if (!query) return [];
+
+    return stockList
+      .filter(
+        (s) =>
+          s.name.toLowerCase().includes(query) || s.ticker.startsWith(query)
+      )
+      .slice(0, MAX_SUGGESTIONS);
+  }, [inputValue, stockList]);
 
   function fetchQuote(ticker: string) {
     setQuotes((prev) => ({ ...prev, [ticker]: { status: "loading" } }));
@@ -90,7 +108,7 @@ export function Watchlist() {
     const ticker = rawTicker.trim();
 
     if (!/^\d{6}$/.test(ticker)) {
-      setFormError("Enter a 6-digit ticker code (e.g. 005930).");
+      setFormError("Type a company name and pick it from the list.");
       return;
     }
     if (tickers.includes(ticker)) {
@@ -105,6 +123,11 @@ export function Watchlist() {
     setFormError(null);
     setTickers((prev) => [...prev, ticker]);
     setInputValue("");
+    setShowDropdown(false);
+  }
+
+  function selectMatch(stock: StockInfo) {
+    addTicker(stock.ticker);
   }
 
   function removeTicker(ticker: string) {
@@ -122,36 +145,53 @@ export function Watchlist() {
         className="watchlist-form"
         onSubmit={(e) => {
           e.preventDefault();
-          addTicker(inputValue);
+          if (matches.length === 1) {
+            selectMatch(matches[0]);
+          } else {
+            addTicker(inputValue);
+          }
         }}
       >
-        <input
-          type="text"
-          className="watchlist-input"
-          placeholder="Ticker code, e.g. 005930"
-          value={inputValue}
-          onChange={(e) => setInputValue(e.target.value)}
-          maxLength={6}
-        />
+        <div className="watchlist-input-wrap">
+          <input
+            type="text"
+            className="watchlist-input"
+            placeholder="Search by company name, e.g. Samsung Electronics"
+            value={inputValue}
+            onChange={(e) => {
+              setInputValue(e.target.value);
+              setFormError(null);
+              setShowDropdown(true);
+            }}
+            onFocus={() => setShowDropdown(true)}
+            onBlur={() => setTimeout(() => setShowDropdown(false), 100)}
+          />
+
+          {showDropdown && matches.length > 0 && (
+            <ul className="watchlist-autocomplete">
+              {matches.map((stock) => (
+                <li key={stock.ticker}>
+                  <button
+                    type="button"
+                    className="watchlist-autocomplete-item"
+                    onClick={() => selectMatch(stock)}
+                  >
+                    <span>{stock.name}</span>
+                    <span className="watchlist-autocomplete-meta">
+                      {stock.ticker} · {stock.market}
+                    </span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
         <button type="submit" className="watchlist-add-btn">
           Save
         </button>
       </form>
 
       {formError && <p className="watchlist-error">{formError}</p>}
-
-      <div className="watchlist-suggestions">
-        {SUGGESTIONS.map((s) => (
-          <button
-            key={s.ticker}
-            type="button"
-            className="watchlist-suggestion-chip"
-            onClick={() => addTicker(s.ticker)}
-          >
-            {s.name} ({s.ticker})
-          </button>
-        ))}
-      </div>
 
       {tickers.length === 0 ? (
         <p className="watchlist-empty">No saved tickers yet.</p>
