@@ -1,8 +1,5 @@
 import { useEffect, useState } from "react";
 
-const LATITUDE = 12.09;
-const LONGITUDE = 126.1;
-
 const WEATHER_CODES: Record<number, { label: string; icon: string }> = {
   0: { label: "Clear", icon: "☀️" },
   1: { label: "Mainly clear", icon: "🌤️" },
@@ -51,13 +48,19 @@ type State =
   | { status: "error" }
   | { status: "ok"; data: ForecastData };
 
-export function Forecast() {
+type ForecastProps = {
+  latitude: number;
+  longitude: number;
+  locationLabel: string;
+};
+
+export function Forecast({ latitude, longitude, locationLabel }: ForecastProps) {
   const [state, setState] = useState<State>({ status: "loading" });
 
   useEffect(() => {
     const url =
       `https://api.open-meteo.com/v1/forecast` +
-      `?latitude=${LATITUDE}&longitude=${LONGITUDE}` +
+      `?latitude=${latitude}&longitude=${longitude}` +
       `&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m` +
       `&daily=weather_code,temperature_2m_max,temperature_2m_min` +
       `&timezone=auto`;
@@ -87,7 +90,7 @@ export function Forecast() {
         });
       })
       .catch(() => setState({ status: "error" }));
-  }, []);
+  }, [latitude, longitude]);
 
   if (state.status === "loading") {
     return <p className="weather-state-msg">Loading…</p>;
@@ -105,6 +108,7 @@ export function Forecast() {
       <div className="weather-current">
         <div className="weather-current-icon">{currentInfo.icon}</div>
         <div className="weather-current-main">
+          <div className="weather-current-location">{locationLabel}</div>
           <div className="weather-current-temp">
             {Math.round(current.temperature)}°C
           </div>

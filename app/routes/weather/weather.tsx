@@ -5,8 +5,22 @@ export function meta({}: Route.MetaArgs) {
   return [{ title: "Weather - N_library" }];
 }
 
-const EARTH_NULLSCHOOL_URL =
-  "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-233.90,12.09,1508";
+const LOCATIONS = [
+  {
+    label: "Seoul, South Korea",
+    latitude: 37.5665,
+    longitude: 126.978,
+    nullschoolUrl:
+      "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-233.02,37.57,1508",
+  },
+  {
+    label: "Manila, Philippines",
+    latitude: 14.5995,
+    longitude: 120.9842,
+    nullschoolUrl:
+      "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-239.02,14.60,1508",
+  },
+];
 
 export default function Weather() {
   return (
@@ -14,15 +28,25 @@ export default function Weather() {
       <h1>Weather</h1>
 
       <section className="data-section">
-        <Forecast />
+        <div className="weather-locations-grid">
+          {LOCATIONS.map((loc) => (
+            <div key={loc.label} className="weather-location">
+              <Forecast
+                latitude={loc.latitude}
+                longitude={loc.longitude}
+                locationLabel={loc.label}
+              />
 
-        <div className="weather-embed">
-          <iframe
-            src={EARTH_NULLSCHOOL_URL}
-            title="earth.nullschool.net - global wind and weather visualization"
-            loading="lazy"
-            allowFullScreen
-          />
+              <div className="weather-embed">
+                <iframe
+                  src={loc.nullschoolUrl}
+                  title={`earth.nullschool.net - wind over ${loc.label}`}
+                  loading="lazy"
+                  allowFullScreen
+                />
+              </div>
+            </div>
+          ))}
         </div>
       </section>
     </div>

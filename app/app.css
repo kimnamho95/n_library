@@ -761,6 +761,12 @@ body {
   line-height: 1;
 }
 
+.weather-current-location {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: rgba(127, 127, 127, 0.9);
+}
+
 .weather-current-temp {
   font-size: 1.6rem;
   font-weight: 700;
@@ -818,10 +824,26 @@ body {
   color: rgba(127, 127, 127, 0.7);
 }
 
+.weather-locations-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .weather-locations-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.weather-location {
+  min-width: 0;
+}
+
 .weather-embed {
   position: relative;
   width: 100%;
-  height: calc(100vh - 320px);
+  height: 55vh;
   min-height: 320px;
   border: 1px solid rgba(127, 127, 127, 0.2);
   border-radius: 8px;
