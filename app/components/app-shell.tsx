@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { to: "/economy", label: "Economy" },
   { to: "/news", label: "News" },
   { to: "/technology", label: "Technology" },
+  { to: "/weather", label: "Weather" },
   { to: "/guestbook", label: "Guestbook" },
 ];
 

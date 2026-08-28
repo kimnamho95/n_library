@@ -1,0 +1,4 @@
+name = "n-library-news-proxy"
+main = "src/index.js"
+compatibility_date = "2026-08-18"
+account_id = "6e4526f8a97c1a34d4f4101cf493e291"

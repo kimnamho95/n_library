@@ -656,6 +656,101 @@ body {
   }
 }
 
+.news-state-msg {
+  color: rgba(127, 127, 127, 0.8);
+  font-size: 0.9rem;
+}
+
+.news-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.news-updated {
+  font-size: 0.8rem;
+  color: rgba(127, 127, 127, 0.8);
+  margin: 0;
+}
+
+.news-refresh-btn {
+  flex-shrink: 0;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  border: 1px solid rgba(127, 127, 127, 0.3);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.news-refresh-btn:hover {
+  background-color: rgba(127, 127, 127, 0.15);
+}
+
+.news-refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.news-error {
+  color: #dc2626;
+  font-size: 0.85rem;
+  margin: 0 0 0.75rem;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.news-item {
+  padding: 0.8rem 1rem;
+  border: 1px solid rgba(127, 127, 127, 0.2);
+  border-radius: 8px;
+}
+
+.news-item-title {
+  display: block;
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.news-item-title:hover {
+  text-decoration: underline;
+}
+
+.news-item-meta {
+  margin-top: 0.3rem;
+  font-size: 0.8rem;
+  color: rgba(127, 127, 127, 0.8);
+}
+
+.weather-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid rgba(127, 127, 127, 0.2);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.weather-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 .rate-chart-card {
   --rc-surface: #fcfcfb;
   --rc-text-primary: #0b0b0b;

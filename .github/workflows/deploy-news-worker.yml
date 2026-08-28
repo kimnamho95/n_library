@@ -1,0 +1,23 @@
+name: Deploy News Proxy Worker
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "cloudflare/news-proxy/**"
+      - ".github/workflows/deploy-news-worker.yml"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Deploy Worker
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          workingDirectory: cloudflare/news-proxy
+          command: deploy
