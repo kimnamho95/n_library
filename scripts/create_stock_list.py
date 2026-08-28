@@ -1,5 +1,4 @@
 import json
-import re
 import ssl
 import urllib.request
 from datetime import datetime, timezone
@@ -28,55 +27,60 @@ SSL_CONTEXT = ssl._create_unverified_context()
 
 # ==========================================
 # 대상 시장
+# ------------------------------------------
+# Naver 모바일 증권 API는 시가총액순으로 개별 종목을
+# 페이지 단위로 제공하며, 우선주도 별도 종목으로 포함됨
 # ==========================================
 
-MARKETS = [
-    {"marketType": "stockMkt", "label": "KOSPI"},
-    {"marketType": "kosdaqMkt", "label": "KOSDAQ"},
-]
+MARKETS = ["KOSPI", "KOSDAQ"]
 
-TICKER_CODE_PATTERN = re.compile(r"^\d{6}$")
+PAGE_SIZE = 100
 
 
-def fetch_market(market_type):
-    url = (
-        "https://kind.krx.co.kr/corpgeneral/corpList.do"
-        f"?method=download&marketType={market_type}"
-    )
-
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": "Mozilla/5.0"}
-    )
-
-    with urllib.request.urlopen(
-        request,
-        timeout=30,
-        context=SSL_CONTEXT
-    ) as response:
-
-        raw = response.read()
-
-    return raw.decode("euc-kr", errors="replace")
-
-
-def parse_rows(html):
-    rows = re.findall(r"<tr>([\s\S]*?)</tr>", html)
+def fetch_market(market):
     items = []
+    page = 1
 
-    for row in rows:
-        cells = re.findall(r"<td[^>]*>([\s\S]*?)</td>", row)
+    while True:
+        url = (
+            "https://m.stock.naver.com/api/stocks/marketValue/"
+            f"{market}?page={page}&pageSize={PAGE_SIZE}"
+        )
 
-        if len(cells) < 3:
-            continue
+        request = urllib.request.Request(
+            url,
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
 
-        name = re.sub(r"<[^>]+>", "", cells[0]).strip()
-        ticker = re.sub(r"<[^>]+>", "", cells[2]).strip()
+        with urllib.request.urlopen(
+            request,
+            timeout=30,
+            context=SSL_CONTEXT
+        ) as response:
 
-        if not name or not TICKER_CODE_PATTERN.match(ticker):
-            continue
+            data = json.load(response)
 
-        items.append({"ticker": ticker, "name": name})
+        stocks = data.get("stocks", [])
+
+        if not stocks:
+            break
+
+        for stock in stocks:
+            if stock.get("stockEndType") != "stock":
+                continue
+
+            ticker = stock.get("itemCode")
+            name = stock.get("stockName")
+
+            if not ticker or not name:
+                continue
+
+            items.append({"ticker": ticker, "name": name, "market": market})
+
+        if page * PAGE_SIZE >= data.get("totalCount", 0):
+            break
+
+        page += 1
 
     return items
 
@@ -100,13 +104,9 @@ all_items = []
 for market in MARKETS:
 
     print()
-    print(f"조회 시작 : {market['label']}")
+    print(f"조회 시작 : {market}")
 
-    html = fetch_market(market["marketType"])
-    items = parse_rows(html)
-
-    for item in items:
-        item["market"] = market["label"]
+    items = fetch_market(market)
 
     print(f"조회된 종목 : {len(items):,}개")
 
