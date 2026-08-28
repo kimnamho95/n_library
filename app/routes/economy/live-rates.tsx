@@ -22,7 +22,8 @@ export function LiveRates() {
   useEffect(() => {
     PAIRS.forEach((p) => {
       fetch(
-        `https://api.frankfurter.dev/v2/rates?base=${p.base}&quotes=${p.quote}`
+        `https://api.frankfurter.dev/v2/rates?base=${p.base}&quotes=${p.quote}`,
+        { cache: "no-store" }
       )
         .then((res) => {
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
