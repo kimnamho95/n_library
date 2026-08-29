@@ -1,12 +1,18 @@
 {
   "source": "Google News (KR)",
-  "updated_at": "2026-08-29T20:52:31.951953+00:00",
+  "updated_at": "2026-08-29T23:15:51.054532+00:00",
   "items": [
     {
-      "title": "‘실종 한국인 9명 찾아라’…정부 신속대응팀, 네팔 홍수 현장 헬기 수색 시작",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfa19GUEROeGM5TEwxTEQxTVQ2dEprT0ExeFZseDBlOGUzb2RPcDI5Q3plZzVQMUVHMFYwZkNGLTZJZE5Pb0dwV2NDeGlYeGJyV1VBSHpoX0JkQdIBX0FVX3lxTE51S0dBVHZjck1sRml1ejZKQ1hNcFdtM19wSVVvLUotalpTUks0ZHNySEVvX3lrNHRlZTFZTzV6c1lmZmhLcThDNGE5WWEzWWZHQUl3Nnl5RDdhLXlQYWdj?oc=5",
-      "source": "경향신문",
-      "published": "2026-08-29T07:43:00+00:00"
+      "title": "韓 신속대응팀 헬기 네팔 현장으로 출발…실종자 수색 재개",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uQmE0MlVwS3ZWUmI1ZEVwQUhBVDZBRjhXVktxVmdvS2xmSlBvSlVvZlAwWmZOWHpUb2VlQUl0Y19nRDNnd1pUak1icWR2SV9tdnAzd2h0YXpQSDU1SWtUU1BCRDFWMzR4cjlfWjhTT0JkNHRLSkxR0gFmQVVfeXFMTUZqV3BnU2JiZ0EzakRWOEdtWHdBZVpqQy1tQUJVYjNrZ0xkM1VtLWNrSXQ2MXpHemRiU1RGY1laSEE0aWh3ZWpENy1oZlc2d1NaR0ZEM2x3X29wdmg3eWVBTm82Nm5B?oc=5",
+      "source": "동아일보",
+      "published": "2026-08-29T06:38:00+00:00"
+    },
+    {
+      "title": "부울경, 흐리고 30∼80㎜ 비…돌풍·천둥·번개 가능성",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZFlUcGRGajVMMDhiR3ptWUI0eGxiN1VkSmsxYzBXVTI0TWFFM0xhcHR4TnNaSHZZajVoVUFPWHZlSkMwdXlYVjBrazhVUDFETHRBYWdGX0JoemPSAWBBVV95cUxNSmMxXzBBM1NPUC1nVHhlWEtJb3JIYmtLZDZxUW1WMFpaazZLWlhfV2dtd05GUUUzVU05RVNpdGlLRzJERnpXT0NOc2RsaTN4SjZ6a1pqNUh1eFdPYVJlNU8?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-08-29T21:06:04+00:00"
     },
     {
       "title": "“이재명 탄핵 위해 웃통 벗고 싸울 것” 장동혁, ‘손봉기 반려’ 비판",
@@ -15,28 +21,34 @@
       "published": "2026-08-29T13:19:00+00:00"
     },
     {
+      "title": "\"언제나 온타리오호\" 캐나다에 대형 표지판 설치...트럼프 개명에 반격",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LVl9IMTZyY0tMdXZrUVd6dTNwTjd3bm5nOTJzcEEwXzhPZTU2UkJkMGlTWUNBdTB3NnlLaFlvR1dYRmZBUmh4V1g0Z053ekNTN2lvOGk3bk9LRW5KalE?oc=5",
+      "source": "YTN",
+      "published": "2026-08-29T21:57:00+00:00"
+    },
+    {
       "title": "제주 야자수농장 사인 의혹... 현장서 실험한 경찰 \"가능하다\"",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUNGcHhCb21DbWlVMG9MLVg1aWcweFYwNUswNHRQdjNCSHBGcTlEVkpDVUxLc015Q2pEN3NLNnpBd0c5ZlVnLWpkZGg3aXhRYUREVGNnQnh6VE8tNDM1Uk5qMjY3M29kUWFOXzdIMUlNVEsxM3RORmlaZ0U2YVhycXVIeERtdw?oc=5",
       "source": "조선일보",
       "published": "2026-08-29T07:34:00+00:00"
     },
     {
-      "title": "일요일 전국 흐리거나 비…남부지방, 돌풍·번개 동반 최대 200mm",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03QWROSF9fX1lsUEEyNS1LY0tZckFCdE94VWRQOGQ0Q0lETms2ODFQTGw2cW55RXBzeHB3Q2M1cEptR0N0cngxWG9qT3RPN0RQSXdXRHFTQ1RfTHFCUXZHUUtkV0JPcU1TSkE4eUFaeElEQQ?oc=5",
-      "source": "한겨레",
-      "published": "2026-08-29T09:34:00+00:00"
+      "title": "경북 상주에 30일 0시 호우주의보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZM0ZXbkJjVVJmN1RZR1lGQ0phenZlT2xEVW9tb09JN2x2c0REOUt3MHBSMGpFTDBVSy01c2N0Z3RwU1hvY0JOeC1yQWE3dHItX21OOV8xV1AxYms?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-08-29T15:32:43+00:00"
     },
     {
-      "title": "전국 대부분 비 소식…충청 이틀간 최대 200㎜ 이상 쏟아져",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3VkFza1NhdWYxWWtNeXN6QVV2MlVHMEsxdVNRQndGTnZSWWtydGw3OEFfcERCSE1wWWhUb3I1STMxejN5Tkd2YUhoaUw0N3VDdVk4cktPSmlTUm_SAWBBVV95cUxONjJ4S3ZjSkwxdVdpcjBGZldjWFR5WnowekZZZ01GbGlZRUtQNW95dXZQamJic1JJaXM5cFE5NHFEbndteXJ5anJxT1FXaEQxTEVjc2xEY3lGazVjbk9IQVQ?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-08-29T20:31:04+00:00"
+      "title": "[오늘의 날씨] 충북·세종(30일, 일)…대체로 흐리고 내일까지 비",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83bERPS1NBbHFRRy1NZkl1amZXSFpPYUhoVVBVWnRLZ0NELThMTTJZUVpxYl95clB6WkNILXY3SldMZDRyZUJ0S3ljSlFMQ09vRGh3UkRWVDFoWWl6MGhn0gFkQVVfeXFMTnRPM0JKbFpWUmtnRmZSMlNYa1ByM2dBc2ppeHhRS2dpcG8zZ3E4VmRDMm8zdlVOOU1Nc1RickhiSjFDaTVMcEVULWdZVlFjTzNYWWxDQU9rYXJ6bnVYZFNCbmZZVQ?oc=5",
+      "source": "뉴스1",
+      "published": "2026-08-29T20:00:00+00:00"
     },
     {
-      "title": "전남 영광군(낙월면 제외)·영광 낙월면에 호우주의보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GTWxvMmdPbjNvQlh2VVcxMTRhbjd1eDBORWRzY3BhTmhzV0JrOHJLZGREeTBLSU9CWUdTcGhIekhOTjlTUjFoZWdqOUdhdmhEYWtNa3pyUVNidFE?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-08-29T16:24:32+00:00"
+      "title": "[경제뭔데]오세훈이 던진 ‘용적률 1.2배’ 카드, 국토부가 선뜻 못 받는 까닭은",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMVZaN1c0YmlGc0JJMmRoa28ySFpQX0xWeDBZU3QtNzBiRWFIamZGcXVJMmNvZWVnQmVBMHJ3N0NJdllfaUh6TzhTZ0dyV1pLWW9XQ3UtTnFDZ9IBX0FVX3lxTE1aYmlwWEZyU1drdC1KMllMb05qal8tcTM2VFdrSzJ0eFR0c1Ryd3lKTVlJclg4cm0wZldSUWpHNzhMNS1qaU12a21hZ2tGSm1pWFIzZ3ZKTGthSU15Vi00?oc=5",
+      "source": "경향신문",
+      "published": "2026-08-28T21:00:00+00:00"
     },
     {
       "title": "\"한국서 데려와 사형\"…'유학생 살해범' 신상 턴 중국인들",
@@ -45,22 +57,10 @@
       "published": "2026-08-29T11:33:01+00:00"
     },
     {
-      "title": "인천 아파트 거실서 화재…70대 남성 사망",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DWmplZDlLOC1MSHg1VUx6aE9CN050Z1ZzSDBSaXZ4MGc5MnJSR09aLTA3N21JZHNqbzhkZkxpR19IeF90WGVIYm82R3Z2VXVNTFNSWtIBWkFVX3lxTE9CTk01a1JlM2pVVUVjWGpuRmhFZG5nM0lfWElWWS1ZZFlNNENlSUQyY0hUWUp2VTVTZUR6T0VYejJnM2JSbWc4Tzcta2ItSTRTYTNMX1hkRFR6UQ?oc=5",
-      "source": "뉴스1",
-      "published": "2026-08-29T11:05:53+00:00"
-    },
-    {
-      "title": "“폭우 피해 복구 아득한데”…재난지역 선포는 언제?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGa0VLLUdqV2FGbFY1SHY5YkFNN09SUVpZZDgtLWpJZTdWMGE5bmdYRTNSaUpGQi1CZlpPVHJDUXEyTTVFMmR1bFBVWjN6dTdsalNUMDVRRjRTX3M?oc=5",
-      "source": "KBS 뉴스",
-      "published": "2026-08-29T12:16:00+00:00"
-    },
-    {
-      "title": "김민석 “국힘, 김영삼 정신 계승 맞다면 이진숙 내쫓아야”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUXZtYlZ6NzNoNmR0enA0VGxDaEpwOVkwUlVEMUQtTEZDV0JQWXUyYTZNS3dMVXhrNUsySVFveE9udGFIUEhzSnNFTVR5QkdTV3JsT096MWxEd9IBX0FVX3lxTE05QkZnSThxUzJKemZJRy1iSlVVS1NISFYxQUVpM0N4Y2pUdnNUSGczaUJmMl9RUDVNRl8ybFhDcTMxQ0d2NnZrbFFNNmZUNy1jdE9SdVJKeFI4ajVkQ1hF?oc=5",
-      "source": "경향신문",
-      "published": "2026-08-29T08:36:00+00:00"
+      "title": "전남 영광군(낙월면 제외)·영광 낙월면에 호우주의보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GTWxvMmdPbjNvQlh2VVcxMTRhbjd1eDBORWRzY3BhTmhzV0JrOHJLZGREeTBLSU9CWUdTcGhIekhOTjlTUjFoZWdqOUdhdmhEYWtNa3pyUVNidFE?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-08-29T16:24:32+00:00"
     },
     {
       "title": "‘러 드론 공습’ 키이우 인근 마을 연쇄 폭발…최소 27명 사망",
@@ -69,46 +69,58 @@
       "published": "2026-08-29T11:36:00+00:00"
     },
     {
-      "title": "“평생 온타리오호로 불렀는데”…트럼프 개명 추진에 미국인들도 비판",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LWWJfMThLbWpOVi1jVnladFRLQzJyaEZCS2hWZjZ3amtSX1gwb3pnNTVILU1nUjF4SDRSX0JGemxmVFhIWG9XWUxndU56bndtVTBtM1pRb0JSZlJQbFBuX3JESUxVSFpMMmR5NHlwT2R6TzTSAWZBVV95cUxOazRIeTVRZkJ3cTQ5WnVmdkEwZDY2cVBsV01JT0wwOFl1eXhCT3JWWWRtMmg1WjF0WG5mNHprejdjaGN1OWhnUFRidXlnRXFUZEJXS08xWmNET1MxMUJtcFcyY3RVRWc?oc=5",
-      "source": "동아일보",
-      "published": "2026-08-29T08:02:04+00:00"
+      "title": "이란 \"외교·국방 두 축으로 美·이스라엘 제재에 맞설 것\"",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTcydDRNdi02Sm1IZzFWVElOSzdJbGVZaTU2YTZpVnlMdm9VYWtVZ01xVE8xbUFERS03Yl9Va3JsQl9hT3ktWk9aMWFoU0JKYUMxMWU2aFdFNDZIVzhuMlAtN0QyS0pOaXRGX3pFUnNyZjRJYUh6c1JEMEJ1SUNsTElqY09zSENRT0g4ME9QMVRHR1ByeTVLSGE0SmtHZw?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-08-29T08:29:00+00:00"
     },
     {
-      "title": "이란 \"외교·국방 앞세워 美·이스라엘 제재·압박에 강력 대응\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45NzN4eU9iaTNLUERkQVd4eUxHWC1kbEtVS1hiUGFFQWlTNDVpS0xWb1V0Yk8wVmpfcjR2Vkg2VVp1Nmp3RFVfamxBdXRUYnJZN0h5VXNFZS1fR2fSAWBBVV95cUxQSEZhMGRnTWNHYURQOGFmMmRXbFl6VUdYdzhyd1BRSmtSbHNsRXdYSHRyenQ2ZEphMnc1WGtndDM4VXp5ZXVSUEVPdTJzSTd4aFlLdWtLc1lmZlgyS3ZJSFM?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-08-29T08:06:01+00:00"
+      "title": "트럼프 \"베네수엘라 석유 650억배럴 과반 통제권 확보\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbVJjOWNPVnhUbGpuM3QxX2RrYlRmOEJDZUFsczRRSHYxZGxObE5RUnpwUDNKN1A3UlgtMDJJQ05MMU9rVENYcUpLUFptRnJlQ0dNQWVGdkJrdw?oc=5",
+      "source": "한국경제",
+      "published": "2026-08-29T01:20:58+00:00"
     },
     {
-      "title": "[글로벌 5Q] 트럼프가 \"세계 최대 석유 계약\"이라는데…베네수엘라 원유 650억배럴, 미국이 가져오나",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZTFqV0hndlVkd0VEaFNMdE5DdGlMZjJJc1hGZzFlanVrb0czRWQxRFF6OE55VTh2WXM1cUs4bVBlM0MwaUJiRVVyTTMtMTlLcjUySjQ5cXNZYkF3ck11aWRhRVVaaG1GdjJkMW9wMW5ZdDZ6UnZuMTNvTWU1VlpSNVFlSklYTnBrM1Z3ZDZsVmdnTEZqTTR0UU4zRTFIdw?oc=5",
-      "source": "조선일보",
-      "published": "2026-08-29T20:19:00+00:00"
+      "title": "미국, 무기 고갈에 유럽 작전 변경…구형 토마호크 개조하기도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TTGl2WThXN1BFVHZxeWRieXlJNUNiOVYwRW9nbFNiZUJpVnB6cEM0cGpSTi0yVDhNVTNnbHFNdFI3ZXI5VXhLVVN2XzBuMFdKdGlVdDZHRWdmQ3M?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-08-29T12:44:00+00:00"
     },
     {
-      "title": "미 연준 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
-      "source": "한겨레",
-      "published": "2026-08-29T02:01:00+00:00"
+      "title": "\"트레이더스 상품 주문날 수령\"…지마켓, '당일배송관' 열어",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2cXItTWpjQlNxZmE2MklKVDRCMXRtdm9GQTdaME9RbVVkMWszT0pRdGdHVUJEdC1jTUV4bFVqWnhXUHI5Y1EwcWZYSnRFUzE3T0pPdkdn?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-08-29T21:00:02+00:00"
     },
     {
-      "title": "[단독]“美는 우주사관학교 설립, 더 전문화하는데 韓은 육해공사 폐교 난리부르스”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ld3BfS0dsMEZGY1NUYXFfOGNsb1ZOSXozVTUzX3ZqTk9DNW5sb1FULWI1ZHNkOE9FeFdSWDd5ZVZ3OTlHcGxvZXZjVDJFOEl3?oc=5",
-      "source": "문화일보",
-      "published": "2026-08-29T14:35:36+00:00"
+      "title": "[기고]강남 수백억 빌딩 토큰화 불허? 韓 기막힌 현실",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kUUlXV2xiZmlvMXFadFFNbXlBT2h5RDlaNUh0OVVsam1ZT0o1UUlyREVMSmRBRDBzbko4MUVqa2RZTnpILUV5Qzl2LTZtZzVWaFVz?oc=5",
+      "source": "네이트",
+      "published": "2026-08-29T20:02:00+00:00"
     },
     {
-      "title": "[사이드B] 삼성전자에 실망한 시장? 3분기 30조원 현금배당 뜯어보니",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1MmVLYTlfVlBSdTc2dHd5d3RNSGxNdGhMZ2JPeGVnTmpGR19VbXRILXNMVl80dmdSZlJjZFZzWHBsazBxR2t2WVM3cHlNS2c?oc=5",
+      "title": "“‘30만전자’ 맞나”…110조 원 풀어도 25만 원, ‘1370원 환율’까지 덮쳤다",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wTG04Qksxc3VYOGstRHQ4ME5OaVlJS1ViTjJfZnI2dXlmSnJHZTNHeVhBbHpia193bXJESmc5RHg0SUdWZ2c?oc=5",
       "source": "v.daum.net",
-      "published": "2026-08-28T21:02:42+00:00"
+      "published": "2026-08-29T04:20:02+00:00"
     },
     {
-      "title": "엔비디아 6분기째 어닝 서프라이즈…트럼프의 중국 제재와 삼전닉스의 복잡한 함수 [플러스 관심 종목]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jMG5nbHFQY0w1MDlxN1VGMkZCZmdaUlB0VDczUHlHS010amt5MzQ1blZIOWptLVduRlVQWGNjcTdqMWVtT1RVWWVFQVotZG9Lc3c?oc=5",
-      "source": "매일경제 마켓",
-      "published": "2026-08-28T10:01:39+00:00"
+      "title": "[주간증시전망] 잭슨홀에서 나온 매파 발언… 산업동향·수출 지표에 촉각 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3hRUDdKX2xkV2dPODZPRnFGSU5MUzRHUTdUSWQ1SDM3OFAwRVo3TEdYN3dWVXZIcXpoZGl5OE1LMG1QME1rdFAwUzlpbjl2ai1FNE5hWlZFMEtiWVhaZ3Y5OGt4bnppM0ZtaU41VkQzcUNBbTR5UVprTEhhQ2U3YVMtTUFvcmpQ0gGcAUFVX3lxTE5qTGhId2hEcmNPakQ5eGFOOHotZXEtS0lLVkhxSS1xX0FfMExRWGsyeDlGS3pRYURLNHQtMl8tTXNGMHhqWC1rSy0zZVlQZFhBUDgwRnJqWDNqekJuaXRXZWZra3REam1LeFNZM3pOOHpNMk01SXpQZEYtTGxUajhyT1Y0QXJhZzBNUVFZaUZDNHlQYmE2ai1kZDJwOQ?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-08-29T21:00:00+00:00"
+    },
+    {
+      "title": "달에선 무엇을 먹을까…'달 농사' 준비하는 과학자들",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5venlmZ2pZYnZXZDRYRzNQeERxWE1hQ2lYSmh2S0JSUmsxLUdOUXpab0J4YnlUOW9HdjhpMkZWTDRPNmhtc2Y0OWhldnhMRjVZMGs1Xw?oc=5",
+      "source": "DongA Science",
+      "published": "2026-08-29T23:00:00+00:00"
+    },
+    {
+      "title": "마냥 돈 때문이 아니다…나이 들수록 부부 사이 멀어지는 '사소한 습관'",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54UjNjcEhRdGlvZ3ZMYkVud2xVaGNIaUZNeC1jZ3dFSUNkdnBHNmJTaWhPdUphNk9EaVVrR1ROSXFDa0dPOE9xc0kzVTROWXRhakxWMldR?oc=5",
+      "source": "위키트리",
+      "published": "2026-08-29T22:30:00+00:00"
     },
     {
       "title": "엘든 링에서 DLSS 5 테스트 결과 비디오 메모리 누수가 증가한 것으로 나타났습니다.",
@@ -123,64 +135,52 @@
       "published": "2026-08-29T17:59:17+00:00"
     },
     {
-      "title": "게임스컴 장비 도난 사건, \"현재 수사 진행 중\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YVlZ1Y1VCT3pZLTNENVhmZmVFR3RXVU43S3VPMmtYYkVBajN2dkVLX1JCZG5WM0k0YnowRHRHQjhMZUJCclJQUXZ5akZyNUp0NDFfaTdRLTE5NGRLZ3c?oc=5",
-      "source": "인벤",
-      "published": "2026-08-29T14:39:37+00:00"
+      "title": "’푸른거탑·막돼먹은 영애씨’ 출연한 배우 이용주 별세…향년 44세",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93MzgyTGZyOVl3dFFpS1RqNlc3UWp0WkgxRGJBSndXalp3bE1WSnBiTllkOTVQaG12dHFQS2NMc0NnNG95cGcyaTUtYVlRb0xNLTZseG4zQ3RmU0N5ay1FeVdiNm5CcEE?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-08-29T22:06:00+00:00"
     },
     {
-      "title": "프리뷰: 스테이트 오브 디케이 3, Xbox의 내홍 속에서도 훌륭한 완성도를 보여주다",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObENESG9jODlFMFM5cEpydHVvd1FQemdNQUV4aW83R0xSN1dDNUVieVNoSl9USE5SS3k1Nkp1WVBGMGVZU1lKLVdqamNxc1lXRDRjY2FzNUJFY2xwbkdDYzVhcGxHVmpGQi00UFlLSlhhNEl3WFdSMkJDY3E5c04yT2ZPeEtudmp3YXNEV29zUVF0TXhDbFh2SkJ2VzhELXlJMjh5RUhpa3prRTBQb3ZKQllpYnZ5WTg2eGRhV0VNbm9ZVmxIWTJyOXZyNC1QcksycTFF?oc=5",
-      "source": "IGN Korea",
-      "published": "2026-08-29T15:57:00+00:00"
-    },
-    {
-      "title": "'푸른거탑' 배우 이용주, 심장마비로 사망…향년 44세",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JM19KVlZoVmFJTlphMDdUb19LcXZUWkMyTDhBMHB6YXk2UnlCRjgzUkk1ei1ta3pMMm56bWY2cjFad2NoMjJRd1I3QU1mcUx3eVo5OWswdHd0UQ?oc=5",
-      "source": "한국경제",
-      "published": "2026-08-29T12:52:54+00:00"
-    },
-    {
-      "title": "배우 이민영 부친상…‘연인’ 소속사 대표와 빈소 지켜",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mY0dqcktad3p0YkkzWlp2OGI1dzk0bDk1blRWTngwRzM2aXljU1VubVllSXd4SXlOUHVNZThSUzhxWnFGc0QtRVgxeEhKVGNyS2ZiRWZOWGV1NVdxQjJHVg?oc=5",
+      "title": "안희연, 핏기 없는 얼굴…하석진-배정남 복잡한 기류 (사랑이 온다)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3b3JmLUUzZF9CT3hHd3hUeEZzNTVvUHFQUnRJUFZlVFQ4M0EyMWx6eHFUa0VvTmI0NkJ2QVRTNnVLbUVlZHRnRXFiY01vVWVaTDlZbFVpVjQzOExSYV9Ybg?oc=5",
       "source": "iMBC 연예",
-      "published": "2026-08-29T16:24:00+00:00"
+      "published": "2026-08-29T10:51:00+00:00"
     },
     {
-      "title": "“엄마도 딸도 반한 주말극” 하석진X안희연 ‘사랑이 온다’, ‘미사’ 작가가 썼다[SC초점]",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTm43RC1CYWlBRTFpZUJZTVZKNG5iUWFfTWZoWVBsNEtQZWxQeHgwUy1NVl9ERzk1VmFGNEZrS1Utb0JtWkk1OHpQUEljR0FqVFprREY1dm9vTGlidXRDakMyYkJSQ0pnZjhzSm12QUtQVWtzWGlqdFZKNXBzb1ZKUWVQVWlLb3JHWUp5X2pvVlpRUXRh?oc=5",
+      "title": "박위, 과거 파묘 이어 '학폭' 루머까지…결국 동창들 등판",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoTXZOb1Nqb1AyRHROS1RSN1BETzlFVXNneFVCTm85bkl6UWdJUW9wZDRSQWxTUVJ3MmhEQzBxWEJHcmFhaHZ6V2lkbWk4ZUxqVWVRbHhtUGwtdw?oc=5",
+      "source": "한국경제",
+      "published": "2026-08-29T07:27:54+00:00"
+    },
+    {
+      "title": "허재 \"아내, 항상 내 밑이라고 생각..혼인신고도 아내 혼자\" 충격 발언(동치미)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFI5dmdaZFhqRWc1cklpRDZ4Nnh0bXFwdV9YZzBwRTRnNXl0cERvVnZJMkswUjNaNlo3Sng1Y3k0bTBBNXBobWp6SnVoYnRVUXdHT0UtakZmXzc0NWpmNXgwUlQ3M3hlX1dLbGo5b05FVDNuaHhRdVViNVh1dFVXb1RIRmktWllWNW1PR2FxMA?oc=5",
       "source": "조선일보",
-      "published": "2026-08-29T02:13:29+00:00"
+      "published": "2026-08-29T14:58:00+00:00"
     },
     {
-      "title": "\"박위가 학폭? 절대 그런 친구 아냐\"…결국 동창들까지 나섰다",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUkdES3JkeTBVcFJBUUN6eFpkSXpKMDMzWHc1dm1DN0FxcWtjOXQ4X0JteHpsYUNKMlNiLTVFXzJKcldkb1Q0dEx2UnlyZy03RzZwOVdZU255cFVfYmtBOA?oc=5",
-      "source": "아시아경제",
-      "published": "2026-08-29T08:28:45+00:00"
+      "title": "이강인 시즌 첫 도움…아틀레티코, 세비야 꺾고 리그 3경기 무패",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BX2FSejNOb2d1dl9qN0FmRVBQQy0wcFFIckFhWUNrb05uWXZadHRGVk50cUIwc1daTHFzTXhSSmVjMW5rX1FsWkR1cmRhMXpIVzlUMFJHVzktOW9raWNHUXRCMVhEdktDUXU3emI5NW5lQUJy?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "published": "2026-08-29T22:53:13+00:00"
     },
     {
-      "title": "[AI상보] '카라스코 QS+송찬의 3안타' LG, 롯데에 7회 강우 콜드 승",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qRmJBcFlXV0NRVG1uTy0wNkpyd2VuZzlYYjhBX2w0RUtwS0VSSG1EbzhJbHJfSnhTazBMNkRuVUVWX2xDVkdEQXVaclpTQ29uZzREZUFJaS05ODV0?oc=5",
+      "title": "김하성, 콜로라도전 무안타 1사구…3경기 연속 출루",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUE5vdnRabTFrWU44TUZxcnJ4eFJvSE1aWDlIdGhVZEJXREVNaUx1Q3h1Z2hYdGJCbnU4aUxSVlpQbUJXZ09raFBkWmUzWjNvMjJUcHVGdFlQSENOV0ZkUTV1Q3pCR2M?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-08-29T05:26:00+00:00"
+    },
+    {
+      "title": "[AI상보] '페덱 완벽투+구자욱 2타점' 삼성, KT 꺾고 29일 만에 선두 탈환",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2bnNZeDN3em9NUDk1bENxOHJvNUlXZ1RmVERGZThKYWMzbldRdHRKclozT2hkakpjMy13aWpiRzNwSkw1WVZab0VydHBpTlVmYkNKZThUZW14NFBw?oc=5",
       "source": "뉴스핌",
-      "published": "2026-08-29T13:32:00+00:00"
+      "published": "2026-08-29T13:05:00+00:00"
     },
     {
-      "title": "'안타→번트→적시타X3' 삼성의 라팍 스몰볼 통했다...'미리 보는 한국시리즈' 잡고 1위 복귀",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdmlwcEVpYkgwUDhpcE54bExKNVliN210Yks3bDFnZHBheTBtaVJES0ptVXNNdmo2VU1hWlVXYmJzR1MxLXA1Z3l0cWNQdEZQc2NBSWsxbTNhUGwwNHhlYUhnTnVXZTc10gFsQVVfeXFMUGpvM1hCVkdTaUlJZnBxLVIzTFR1VGlobzlRQ3RxVV9aVlB2TjZXRExjc0ZjNWZHTHU4M2VVWlpZTnhSYmE0U3JvUDFQVThpUkNpQkZfZnZNN2hnemUxaXhmUEpxRGpSN3dSa3Jn?oc=5",
-      "source": "더게이트",
-      "published": "2026-08-29T13:40:09+00:00"
-    },
-    {
-      "title": "곽빈·안우진 160㎞ 광속구 '세기의 대결'...주인공은 안재석",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GZmk1NnVyWVVKYWZYOS03bzh2WEhXTl9tX3NMY1R6bXpjX3lOdTlxdjBzTmIzR3V6a08tQjBIUGJ5VnJMRExiaGRmNU5SUFFNYm91cW1nQ21XVG1lNXc?oc=5",
-      "source": "YTN",
-      "published": "2026-08-29T13:21:00+00:00"
-    },
-    {
-      "title": "이정후, 1안타 2득점 1도루 활약…김하성은 몸 맞아 출루(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RmxXOGtwc2hlMnhQa0Y1emkzZTVwdVh4SEpraW5HbUpKZWFSWmwwODhORDMtb1MzdUd2VjlrY3NpeXdFbmZkZTNNdkUxOHllSzBRVVVWZFdoOGPSAWBBVV95cUxNdmU5eWVwWFFiQTFqbGlmYnY2TnhCUnprMGtHRlczTUNsT2dBRDMxQS1ydjhxcVhDUVJPZmFpQVZIZ2txTVhlRXBXcHpaNmE2ejViZy1zbGhmMkhXVW5JMDM?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-08-29T05:28:52+00:00"
+      "title": "실책 손용준 오히려 고맙다고? → LG 카라스코 인성 크.. 빅리그 112승 레전드는 다르다 [부산 현장]",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmYwYmRUc2Z2MkpEZVMyaEJkbnZQd1FhSHM1X29nZU5hZUhrNk1QUmRRaFZJRWN2Yno4NUNwMEtUUW9IMEJHQTczUk9nYWZEWG92Z3pyTzV2STJDUk81Tl81VGxCZDhfZ09NWVdhaERtSjk4SlN2akRIWkxTa3BVcFlsNA?oc=5",
+      "source": "조선일보",
+      "published": "2026-08-29T16:43:00+00:00"
     }
   ]
 }
