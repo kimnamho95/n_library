@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T06:18:36.422886+00:00",
-  "count": 2763,
+  "updated_at": "2026-08-30T23:08:11.407233+00:00",
+  "count": 2768,
   "items": [
     {
       "ticker": "060310",
@@ -970,6 +970,11 @@
     {
       "ticker": "073490",
       "name": "LIG아큐버",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "225190",
+      "name": "LK삼양",
       "market": "KOSDAQ"
     },
     {
@@ -3323,11 +3328,6 @@
       "market": "KOSPI"
     },
     {
-      "ticker": "082640",
-      "name": "동양생명",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "060380",
       "name": "동양에스텍",
       "market": "KOSDAQ"
@@ -3820,6 +3820,11 @@
     {
       "ticker": "294140",
       "name": "레몬",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "365660",
+      "name": "레몬헬스케어",
       "market": "KOSDAQ"
     },
     {
@@ -5005,6 +5010,11 @@
     {
       "ticker": "050090",
       "name": "비케이홀딩스",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "148780",
+      "name": "비큐AI",
       "market": "KOSDAQ"
     },
     {
@@ -7668,6 +7678,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "288620",
+      "name": "에스프리즘",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "443670",
       "name": "에스피소프트",
       "market": "KOSDAQ"
@@ -9371,6 +9386,11 @@
       "ticker": "214320",
       "name": "이노션",
       "market": "KOSPI"
+    },
+    {
+      "ticker": "462350",
+      "name": "이노스페이스",
+      "market": "KOSDAQ"
     },
     {
       "ticker": "274400",
@@ -11251,6 +11271,11 @@
       "ticker": "200130",
       "name": "콜마비앤에이치",
       "market": "KOSDAQ"
+    },
+    {
+      "ticker": "024720",
+      "name": "콜마홀딩스",
+      "market": "KOSPI"
     },
     {
       "ticker": "294570",
