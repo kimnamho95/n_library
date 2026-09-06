@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T23:08:11.407233+00:00",
-  "count": 2768,
+  "updated_at": "2026-09-06T22:40:48.802300+00:00",
+  "count": 2767,
   "items": [
     {
       "ticker": "060310",
@@ -586,6 +586,11 @@
       "ticker": "298050",
       "name": "HS효성첨단소재",
       "market": "KOSPI"
+    },
+    {
+      "ticker": "396300",
+      "name": "HT로보틱스",
+      "market": "KOSDAQ"
     },
     {
       "ticker": "469480",
@@ -2796,11 +2801,6 @@
       "ticker": "0106J0",
       "name": "대신 KOSPI200인덱스 X클래스",
       "market": "KOSPI"
-    },
-    {
-      "ticker": "471050",
-      "name": "대신밸런스제17호스팩",
-      "market": "KOSDAQ"
     },
     {
       "ticker": "482690",
@@ -5863,11 +5863,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "002420",
-      "name": "세기상사",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "061090",
       "name": "세나테크놀로지",
       "market": "KOSDAQ"
@@ -5920,11 +5915,6 @@
     {
       "ticker": "011560",
       "name": "세보엠이씨",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "396300",
-      "name": "세아메카닉스",
       "market": "KOSDAQ"
     },
     {
@@ -6231,6 +6221,11 @@
       "ticker": "053210",
       "name": "스카이라이프",
       "market": "KOSPI"
+    },
+    {
+      "ticker": "386380",
+      "name": "스카이랩스",
+      "market": "KOSDAQ"
     },
     {
       "ticker": "276040",
@@ -7290,11 +7285,6 @@
     {
       "ticker": "140670",
       "name": "알에스오토메이션",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "096610",
-      "name": "알에프세미",
       "market": "KOSDAQ"
     },
     {
@@ -8791,6 +8781,11 @@
       "ticker": "101970",
       "name": "우양에이치씨",
       "market": "KOSDAQ"
+    },
+    {
+      "ticker": "002420",
+      "name": "우양피앤엘",
+      "market": "KOSPI"
     },
     {
       "ticker": "046940",
