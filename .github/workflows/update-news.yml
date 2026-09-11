@@ -46,4 +46,5 @@ jobs:
 
           git commit -m "Update news"
 
+          git pull --rebase origin main
           git push
