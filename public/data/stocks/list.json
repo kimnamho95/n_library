@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:40:48.802300+00:00",
+  "updated_at": "2026-09-13T22:51:23.394216+00:00",
   "count": 2767,
   "items": [
     {
@@ -2173,13 +2173,13 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "190510",
-      "name": "나무가",
+      "ticker": "242040",
+      "name": "나무AX",
       "market": "KOSDAQ"
     },
     {
-      "ticker": "242040",
-      "name": "나무에이엑스",
+      "ticker": "190510",
+      "name": "나무가",
       "market": "KOSDAQ"
     },
     {
@@ -6423,11 +6423,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "472220",
-      "name": "신영스팩10호",
-      "market": "KOSDAQ"
-    },
-    {
       "ticker": "0091W0",
       "name": "신영스팩11호",
       "market": "KOSDAQ"
@@ -8095,6 +8090,11 @@
     {
       "ticker": "0130H0",
       "name": "엔에이치스팩33호",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "0197V0",
+      "name": "엔에이치스팩34호",
       "market": "KOSDAQ"
     },
     {
