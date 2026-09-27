@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T22:57:20.065297+00:00",
-  "count": 2764,
+  "updated_at": "2026-09-27T23:37:24.238557+00:00",
+  "count": 2765,
   "items": [
     {
       "ticker": "060310",
@@ -723,6 +723,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "0209J0",
+      "name": "KB제34호스팩",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "002380",
       "name": "KCC",
       "market": "KOSPI"
@@ -765,6 +770,11 @@
     {
       "ticker": "003620",
       "name": "KG모빌리티",
+      "market": "KOSPI"
+    },
+    {
+      "ticker": "381970",
+      "name": "KG모빌리티플랫폼",
       "market": "KOSPI"
     },
     {
@@ -2265,6 +2275,11 @@
     {
       "ticker": "0218L0",
       "name": "네오뷰",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "0161M0",
+      "name": "네오사피엔스",
       "market": "KOSDAQ"
     },
     {
@@ -8663,6 +8678,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "0010S0",
+      "name": "와이즈플래닛컴퍼니",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "019210",
       "name": "와이지-원",
       "market": "KOSDAQ"
@@ -8900,11 +8920,6 @@
     {
       "ticker": "008370",
       "name": "원풍",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "008290",
-      "name": "원풍물산",
       "market": "KOSDAQ"
     },
     {
@@ -10913,11 +10928,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "381970",
-      "name": "케이카",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "145270",
       "name": "케이탑리츠",
       "market": "KOSPI"
@@ -10985,11 +10995,6 @@
     {
       "ticker": "391710",
       "name": "코닉오토메이션",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "046070",
-      "name": "코다코",
       "market": "KOSDAQ"
     },
     {
@@ -11080,11 +11085,6 @@
     {
       "ticker": "360350",
       "name": "코셈",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "082660",
-      "name": "코스나인",
       "market": "KOSDAQ"
     },
     {
@@ -12795,6 +12795,11 @@
     {
       "ticker": "0164H0",
       "name": "한국제16호스팩",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "0200G0",
+      "name": "한국제17호스팩",
       "market": "KOSDAQ"
     },
     {
