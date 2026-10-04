@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T23:37:24.238557+00:00",
-  "count": 2765,
+  "updated_at": "2026-10-04T23:49:10.511307+00:00",
+  "count": 2768,
   "items": [
     {
       "ticker": "060310",
@@ -1988,6 +1988,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "486510",
+      "name": "글로벌테크놀로지",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "204620",
       "name": "글로벌텍스프리",
       "market": "KOSDAQ"
@@ -3110,6 +3115,11 @@
     {
       "ticker": "213420",
       "name": "덕산네오룩스",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "266690",
+      "name": "덕산넵코어스",
       "market": "KOSDAQ"
     },
     {
@@ -4868,6 +4878,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "468670",
+      "name": "브릴스",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "365900",
       "name": "브이씨",
       "market": "KOSDAQ"
@@ -5050,6 +5065,11 @@
     {
       "ticker": "093190",
       "name": "빅솔론",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "0035S0",
+      "name": "빅웨이브로보틱스",
       "market": "KOSDAQ"
     },
     {
@@ -6176,11 +6196,6 @@
       "ticker": "126720",
       "name": "수산인더스트리",
       "market": "KOSPI"
-    },
-    {
-      "ticker": "084180",
-      "name": "수성웹툰",
-      "market": "KOSDAQ"
     },
     {
       "ticker": "253840",
