@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T23:49:10.511307+00:00",
-  "count": 2768,
+  "updated_at": "2026-10-12T00:11:55.194402+00:00",
+  "count": 2758,
   "items": [
     {
       "ticker": "060310",
@@ -1428,11 +1428,6 @@
       "market": "KOSPI"
     },
     {
-      "ticker": "03473K",
-      "name": "SK우",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "096770",
       "name": "SK이노베이션",
       "market": "KOSPI"
@@ -1918,11 +1913,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "078130",
-      "name": "국일제지",
-      "market": "KOSDAQ"
-    },
-    {
       "ticker": "307750",
       "name": "국전",
       "market": "KOSDAQ"
@@ -2055,11 +2045,6 @@
     {
       "ticker": "214330",
       "name": "금호에이치티",
-      "market": "KOSPI"
-    },
-    {
-      "ticker": "001210",
-      "name": "금호전기",
       "market": "KOSPI"
     },
     {
@@ -3338,11 +3323,6 @@
       "market": "KOSPI"
     },
     {
-      "ticker": "084670",
-      "name": "동양고속",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "060380",
       "name": "동양에스텍",
       "market": "KOSDAQ"
@@ -3633,11 +3613,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "196490",
-      "name": "디에이테크놀로지",
-      "market": "KOSDAQ"
-    },
-    {
       "ticker": "066900",
       "name": "디에이피",
       "market": "KOSDAQ"
@@ -3865,11 +3840,6 @@
     {
       "ticker": "199550",
       "name": "레이저옵텍",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "281740",
-      "name": "레이크머티리얼즈",
       "market": "KOSDAQ"
     },
     {
@@ -4843,11 +4813,6 @@
       "market": "KOSPI"
     },
     {
-      "ticker": "005030",
-      "name": "부산주공",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "008470",
       "name": "부스타",
       "market": "KOSDAQ"
@@ -5075,6 +5040,11 @@
     {
       "ticker": "065450",
       "name": "빅텍",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "210120",
+      "name": "빅텐츠",
       "market": "KOSDAQ"
     },
     {
@@ -7553,11 +7523,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "0008Z0",
-      "name": "에스엔시스",
-      "market": "KOSDAQ"
-    },
-    {
       "ticker": "005850",
       "name": "에스엘",
       "market": "KOSPI"
@@ -7570,6 +7535,11 @@
     {
       "ticker": "041510",
       "name": "에스엠",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "078130",
+      "name": "에스엠국일",
       "market": "KOSDAQ"
     },
     {
@@ -7610,11 +7580,6 @@
     {
       "ticker": "398120",
       "name": "에스지헬스케어",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "472230",
-      "name": "에스케이증권제11호스팩",
       "market": "KOSDAQ"
     },
     {
@@ -7880,11 +7845,6 @@
     {
       "ticker": "021080",
       "name": "에이티넘인베스트",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "200470",
-      "name": "에이팩트",
       "market": "KOSDAQ"
     },
     {
@@ -8155,6 +8115,11 @@
     {
       "ticker": "348370",
       "name": "엔켐",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "134580",
+      "name": "엔키AX",
       "market": "KOSDAQ"
     },
     {
@@ -9210,11 +9175,6 @@
     {
       "ticker": "049520",
       "name": "유아이엘",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "473050",
-      "name": "유안타제15호스팩",
       "market": "KOSDAQ"
     },
     {
@@ -10738,11 +10698,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "210120",
-      "name": "캔버스엔",
-      "market": "KOSDAQ"
-    },
-    {
       "ticker": "050110",
       "name": "캠시스",
       "market": "KOSDAQ"
@@ -11510,11 +11465,6 @@
     {
       "ticker": "065130",
       "name": "탑엔지니어링",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "134580",
-      "name": "탑코미디어",
       "market": "KOSDAQ"
     },
     {
