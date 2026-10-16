@@ -1,48 +1,42 @@
 {
   "source": "Google News (KR)",
-  "updated_at": "2026-10-16T11:15:54.966440+00:00",
+  "updated_at": "2026-10-16T16:33:53.441812+00:00",
   "items": [
+    {
+      "title": "정부, ’우회 파병’ 지적에 “전쟁 불개입 원칙적 입장…역할 검토“",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pSnE1b0xRWEJ4Q0VnbUt6TGd4RUVuMzBGbGJWbGdTQWZucy1ac1U1U2RFNDlobXlUOVRMa2s5cUgzQmhvRzNTdzRNakM2T3lwalN4UmR1WGowLWRETzUxMlJFQnc5TG8?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-10-16T12:03:00+00:00"
+    },
+    {
+      "title": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승부수 띄우나",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeDVUc0xBaTdjS2Y2QVF6S3hBNmpTZ2ZpTzdmMWhQcHlnWV9INDUwVF93dEdweUpoNUN0U0FTamRndjFRR0tuRS1DdTV0WTMtM3IzTjZrakxDaE0tSHJNQ2loUXNJZEVYamRXeWJ4clFXUURF?oc=5",
+      "source": "한겨레",
+      "published": "2026-10-16T12:15:00+00:00"
+    },
+    {
+      "title": "“심정지 소방관 안타깝다”…이 대통령, 전국체전서 격려 박수 제안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUSkxxOWQ1bDF2Uy1pY1NPZS1PX3pPNlJlcXp3RGRLMzNyejNQa2FENEljMXFqSlAxSnhNeHl4cEMyY0pDeEZKMG16dUNPRVY5RTB0TVNMS21aLWQ5Ml8xenBNQm5TYk5CeEVR?oc=5",
+      "source": "한겨레",
+      "published": "2026-10-16T10:46:00+00:00"
+    },
+    {
+      "title": "공주 실종 50대 여성 숨진 채 발견…스토킹 신고 남성 차량서",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLdUpSenNoelNlRDFhR2pHUlhkMVoxa1NmYlhKMUlnS3R1TC1UVmsyYnQyOWwzUlRPNGNrb2JPS1RvbHo5QklGdG5TaGMwWnVXUGljTHliVC1MX29RYUI0SUh4RU9zYXV1?oc=5",
+      "source": "한겨레",
+      "published": "2026-10-16T13:18:00+00:00"
+    },
+    {
+      "title": "인천 흉기 난동범 ‘59세 최중락’ 구속…신상·얼굴 전격 공개",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LbVFhdnhlYl9MdHcxMEhmVTIwVUtxaVdtekc5N2VLRWdzak94bW1FeTBId3N1Rnh1QURTYjc4QzdLQmFkTzQ4TUxuemo4RGZob0V5OHNMakoxRXFjblE?oc=5",
+      "source": "주간경향",
+      "published": "2026-10-16T10:08:00+00:00"
+    },
     {
       "title": "‘소방 재정 빨대’라더니…경기도, 순직 추모 사업 예산도 전액 삭감",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OaUk2cTYyZmN1SXlERDRpT0t6U1RKaEFESXJ2S1NKNWRvOUZnc0h5VDlXMTdQVVMwS0JmVGw1djBSektTcl9rb1BZYUhuVlZfcEtVVnBCNVpGQdIBX0FVX3lxTE5ZNkdaZERMbS12VWNJTXYtTmRHU2dnVlNaZkkyMUdGZEZFc0NPMlR5YWIxeEpZbkpRd1RFZThOd1FOVHA3R2xvNmVxWTF6NkxPc0szblJJWnY2cTFMcnhj?oc=5",
       "source": "경향신문",
       "published": "2026-10-16T05:53:00+00:00"
-    },
-    {
-      "title": "민주, ‘조희대 탄핵 추진’ 논의 공식화…‘범여권 결집’ 승부수 띄우나",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeDVUc0xBaTdjS2Y2QVF6S3hBNmpTZ2ZpTzdmMWhQcHlnWV9INDUwVF93dEdweUpoNUN0U0FTamRndjFRR0tuRS1DdTV0WTMtM3IzTjZrakxDaE0tSHJNQ2loUXNJZEVYamRXeWJ4clFXUURF?oc=5",
-      "source": "한겨레",
-      "published": "2026-10-16T08:24:00+00:00"
-    },
-    {
-      "title": "[속보] 인천 상가 흉기난동범 신상정보 공개‥'59세 최충락'",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVWVJVkloTUxwM21sZUxvRWNfeF9DZGV6US1DcFBHOXV3THdSbzgzZ0VNQ19nTkVXdDM5M2RiMnl3NkoxVFpDVzNKSVhpN2Z2UXhYelNkb2ZDa0ZvX29yWUlObkVQcDhKT18xT05wVjBFckY2a1pj0gF3QVVfeXFMT0c3U0cwMFlPMzJCWTdyVXNQMGRHMnp3NGZ5cG50Z21JQ09BQkhuT1ZScFVES0xLeV9yQzl6akFUSnpSUkNBTlNFRF9tbGEwODZvaDhkcUNuNzF6XzlpNzhUbF9KNHJweFFoWm5FSkd1cDdPRGNaTDQ?oc=5",
-      "source": "MBC 뉴스",
-      "published": "2026-10-16T10:43:14+00:00"
-    },
-    {
-      "title": "이 대통령 “소방관 예우·보상 충분치 못한 게 안타까운 현실…사경 헤매는 소방관 쾌차할 수 있길”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90SHZVcTl6YUE4ZlVmQjBKR0lUY1d4bUtGaTBDMzg0WkZuYnFpRmIwc0x5ZVF2OEY4c2VRcGI3YmZqMkNxTm5BXzRBN2FqX3BlRS1ZLXVmMWhVd9IBX0FVX3lxTE9ONXBGOXlsMVZyT1dLZTJ1ZUpjSHktSkpnZU5TT1dOOUFSV1hGTnd0NGlHRE5fd2xrcXVRbG9PZ2RSZk9yUEloMmZsZ3Z1eGdSTWdGTGlUV245VExlcTBN?oc=5",
-      "source": "경향신문",
-      "published": "2026-10-16T10:42:00+00:00"
-    },
-    {
-      "title": "李 “부마항쟁-5·18, 헌법전문 담아야…국회 조속 개헌 논의를”",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96a3hWMlU5eU50NzY1VGJBRENGWG5jZTJDYW5MNXU3cTNIWndYdTcybGpNN1lRN1B4ek1nWkFaMmdFenlZN2NYeG5sMTBhNjQ2Qy1TQXFPWFFFak9qWkNCbFgzRG9VVmR6Wmd5dDBRR2FkOUc4dzRj0gFmQVVfeXFMUHp0cWZHOENVbXB5Q2p2c1lIVEotT2NJNExVUVd3cU5OREtUamR0ZkRNZVVHR3VieDJfNzFVMk1IVDdWQTRkZFp4WTRzWnFna1J6ZHVxVU5UWTdBOURXVkVmSlhoZjlR?oc=5",
-      "source": "동아일보",
-      "published": "2026-10-16T05:41:00+00:00"
-    },
-    {
-      "title": "[단독] 검찰 미래위 '윗어르신' 논란 \"보완 조사\"‥이 대통령 공소취소 될까?",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSWVAzeFJNbEpZSG41YlZWQWpINlFPaVlKWUpPUjNHTnV4OEtzSG1tUHFGT01UeXlnWFR6ZTU2U1dDUFFCc0RpSl9lVUZpT2Q4LVI3LUJCVWQySzE0T0FZVmhzU09XXzNmd0NGQk9WT2oxanJwUTNj0gF3QVVfeXFMTlZ4QlM0S2dQb192a0VlcjhvN1ZWOU9CVmxCaWdFY0xRZmZQM0NZbDhEcURTaDhsaFFXQkJKSnlVMWZMNnVlTlVUT2xTaHlMZ04xM2RPZXhxeXpUMUVuTWhjaFN1N2dlVHRGZklON3pSQkltSzYtTDg?oc=5",
-      "source": "MBC 뉴스",
-      "published": "2026-10-16T05:31:56+00:00"
-    },
-    {
-      "title": "“내란보다 죄질 무거워”···‘평양 무인기 투입’ 윤석열 항소심서 징역 30년 구형",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tWC04VlQ4eTRvRkhqRU5mNlJJcGY5MDZkejZMd0NNS0dRdlFZalMxa0VNcG5xYmNObm4weW44Z09QbC1SNFhoM0E3SXdoMEYzcWo0empGQVJid9IBX0FVX3lxTFB2S0NlZmYyWnJ3NzdnSElUVEJpT1I0TG1ETGZxV3FqYmxZZjhZc29iXy0yZl9MZ1gtc1lEdnlSVnBIQ1hhYWhsOTIySHFXenhVa3pPaWZ1SHBteU5rUHNB?oc=5",
-      "source": "경향신문",
-      "published": "2026-10-16T05:36:00+00:00"
     },
     {
       "title": "\"李 재판 중단, 직무유기 아닌가\"…서울고법원장 \"헌법 84조가 근거\"",
@@ -51,10 +45,10 @@
       "published": "2026-10-16T05:39:06+00:00"
     },
     {
-      "title": "‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fNGg5M3Z4ZVFuQ1k2WGxaOU84cE1QSTcyRG1yZmtXaWp3Zl8zSXVLZF9fRXI0bG5pQ20wX3lMNnBvTUhXdHNwbVAtVEYwcHlaLUstb18wQ3phSUtZRnR4OGZPVlQ4NDNqWUNmSGd0bHA0aEJ5?oc=5",
-      "source": "한겨레",
-      "published": "2026-10-16T04:47:00+00:00"
+      "title": "[날씨] 토요일 맑다가 밤부터 구름‥일교차 크고 강한 바람",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4NERVMFh3QWlPVUl1OUM0aE9GaFc0Qno1OXdyMUtsaHUtUldCY3VoNEpNOV9udUhaYXVkaGVXUTR5RzVJcHNoU2RndlJuclZmeTdBZTBCeGFOZk9yYzQ2TnVwc1Fma2NNVjJzUnJlYnRhYlFqSGNv0gF3QVVfeXFMUC04ZWd2SzNHM05ubW5IOFY5VE5yYm5UaHAyc0dfM045NnZFaURWUWFBdVMxWVhnUkV2ME5rUVRDcXNHMnZOSUJ3SW15ODVrUUhtNmJtWFpjZVBhc2tvT0FQdXNqVmRqMEFOMnkwVkgxZDk4M2VfYWs?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-10-16T15:04:21+00:00"
     },
     {
       "title": "‘노란봉투법 설계’ 중노위원장, 국감서 대법원장 우회 비판 왜?",
@@ -63,22 +57,22 @@
       "published": "2026-10-16T06:44:06+00:00"
     },
     {
-      "title": "트럼프 ‘에너지 휴전’ 무산···여전한 미-우크라 긴장에 유럽은 젤렌스키 달래기",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PTXNrOGtubFZxWjNmdnE4NGpxZmVnVUFJMGYyVjdmdWswd29DWUhsTVBPQ3pQa2RYTS1tX29MU0VkQThTVUFfZHR1YzIzNklJMllSR1lUekVuUdIBX0FVX3lxTE9Nc2o4VC00U0swMVlwbUdkb2RmRjVQMVF0cnItOHRNZ0c1aVVYTzNQaFRaUzlITDFjU3Y4Vi0tOWhJUmxpNS1YSkRGaW15MGhtSjBQWDNEakVtLTBnbWRr?oc=5",
-      "source": "경향신문",
-      "published": "2026-10-16T06:19:00+00:00"
+      "title": "행안부, 서울시 한강버스 136억원 적자 지원안 제동",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53NUZUT3lfeVgySmpkSnQyUHRNaXNVOVFwMy0zUnF4OGZMdldrZ0V1TzdhR3JvREpfbU5PWHhIMWIzVWZsT0t4dWJ1VnhFVzJOV2pIa0NrVlFwREZ3MUktcVhna3RxcWtmcFE?oc=5",
+      "source": "한겨레",
+      "published": "2026-10-16T13:10:00+00:00"
     },
     {
-      "title": "\"시험 떨어졌지만 변호사 맞다\"…백악관 대변인 황당 해명",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tb1B1bnJjQXZEZEU5Sjd2WlJrandGZUxJRlZNV2tZZXBQU0xyMlZjRDJBb1NNUlQxazdOdUdRZENMUGRfdHBRdE5DUXBKb2pHNDNJT1RNa0J1dw?oc=5",
-      "source": "한국경제",
-      "published": "2026-10-15T22:19:48+00:00"
+      "title": "젤렌스키, 트럼프 겨냥해 “러시와 ‘경유딜’ 부적절”",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlNzZkFSM2MzV3YzOG9kaF9FTTBYRzBLcTZaUi1nSkNBVWhoX0dzZUppR2o2b2RIZUtLTlBZanItRGV5VTlUVkFpY2NManhwQ3VWX3FFc1pFVWVpSzRPMk1PMWszQ2ZxeGlMLVhCOC1GNG8yT24yS2x5eWo4RDBIbjBHT1g4ZHBXc3UzWXEzUS14bzlpV3ZLMWtWUDA5dw?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-16T16:07:00+00:00"
     },
     {
-      "title": "호르무즈 해협 인근 선박 공격 보고 역대 최고…원유 수출은 둔화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtOVNpMUNFRzhyRGRra1dTVHdsTjRJeW9KODVIN2FxdUIwMkJBNy1RdlgwTkJpV1ZRa1lBWFdTckZucDNCdThOLXJGZDhLdF9PNm1NM1BlRHIyampJQmfSAWNBVV95cUxPazBPN2lkSE5iajE1Q3YyLW4xQXBMeHhoMndDdmU4ZnpOZm16X0MxTndlRUJHeTlXb1V6WHUtdXg1Wks1ODdaUnIzR2M0dldfckRaWGRWUEZXTzlueVAwZldVTmc?oc=5",
-      "source": "BBC",
-      "published": "2026-10-16T08:15:00+00:00"
+      "title": "美초교서 10대 총격범이 어린이 3명과 교사 살해…시민이 사살(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14b1QzVS1iZ3VuRFZralQ4TUo1UkZOVF9TRGI3a05SOU1mSTJKdktwdVNscXNCU2tEWnJBbjFuU3VhSHVCVWJkeEJVbktwOUdmSFR6QmlRd3p0ZEnSAWBBVV95cUxOUHhiODF1MkpES29pN3FzWG5LOVFIQ2FxUllxTjZwclo2SlUyNU5fUC1DNF90LWgyTW44bDBhTk83ZDU0dVBiRmxhRXpkWVBVMmNYQnoyWG9ZTnFsbGJ3Smw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-16T02:03:32+00:00"
     },
     {
       "title": "후티, 예멘 대통령궁 공격으로 최소 5명 사망…사우디 “이란이 확전 부추겨”",
@@ -87,46 +81,52 @@
       "published": "2026-10-16T02:27:00+00:00"
     },
     {
+      "title": "헤그세스 美 국방, 영국 장관과 회담서 \"우크라의 스타링크 접속 복구됐다\" 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51d002MHkwYnhCVVpsQWhNa1JKbVQ2eG9YaTNEMnMxdldUWWVSU2VNWXVxak5talo5V253cTJUOVl6ODNIcHItUzg0ZkFBcWRfbXpHOW5VQV9xNVUx?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-10-16T10:19:00+00:00"
+    },
+    {
+      "title": "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJakdzM1dYT2xCcHpBN0UtN0puUEladU05TVFOQlFyZkN5VmVmcThwdmhFTnFDX1BOamVOY1Z1VXBCeWladmo2OUF2a2YtRkI1b2dBSkcxX3liSTA?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-10-16T06:28:00+00:00"
+    },
+    {
       "title": "5년 만에 부활한 주택공급 정례 브리핑‥이번엔 다를까",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IN2hfMS1NTmJ5RnZqSDV0SVdUNVNOVnA3a2h4VlpWQko3Y1FZOUJiYndoek9jNjluSjQ4MjBLZjdvTF96SUozcjh6aTIzcWgzUXYzMU1sR2s0WnNDS0dReHFRSGZvYXUzMUZRVmZQelh2dWp20gF0QVVfeXFMTUJzb0FoZ3NiWTVxRWFfdUJZWE1BaFdKSGh0dUdHTFBJVU95X0p3ZVVqX2RLQzZCYV85bkI2SVFIOUF5N0dHSmtNemF5RnV3dGtzVmxoQmhvc3ItRkR4WGt0OTJyaDRBRFVhOEg5d2xSZkFGTms?oc=5",
       "source": "MBC 뉴스",
       "published": "2026-10-16T09:05:38+00:00"
     },
     {
-      "title": "‘널뛰기’ 코스닥 5% 급등…어제는 매도, 오늘은 매수 사이드카",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNNW5pNVNMMDNFNi1Ta0V2anhmRjF1WU92czNzanQ2YlVVMVRIaEhMU2lfUEFmeWVBX1FtdEQyX1BLYnl5cEt0VUY3QVVaSUt1MC05M0lTRXhqaVd6Z2s4eWZOTFVaX2s?oc=5",
-      "source": "한겨레",
-      "published": "2026-10-16T04:54:00+00:00"
+      "title": "[단독] \"돈 넣어둔 사람 많은데\"…'368곳' 경고등 켜졌다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeXh3MXBiUzFPVE15NlVUWlktakw1Q193aTI5LWI5bXJRdDQtREtfXzRtdkhmSHc2YTFvTzhJcmx4ZGlFRm5EbjhtV3NfSnA2WlNwSUd4SUYtQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-16T12:00:02+00:00"
     },
     {
-      "title": "한화시스템, 한화오션 잔여 지분 7.24% PRS 유동화…1조3834억원 조달",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVFWUU1MQ1hveTBlU0JXc0ltdHFBY2NZWnlQbGtuSklMTm5lVjR5d2ZpeE5wZ2dhRU1NNHFKeENQbEtCZTBtYy04WjVlWkNwWGpXV0NtaHNKeFRhWU1IRTJhd0JHdXd4R0JCZzhya3FQa0hOdFBUVjlNYThPNUdaRkNhUQ?oc=5",
-      "source": "인베스트조선",
-      "published": "2026-10-16T09:57:00+00:00"
+      "title": "\"지난 7일 위고비 급여 신청\"…비만약 가격 경쟁 격화",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wRGgwckRRVGRLSnBXMTBJeWFod2JhaDltMFZBMmdHSi1wT2ZUSUVmV0dUVGZvRXBCQnBoeC1FLXVmZl9Kdk9sdXdQOHNaYnYtODdoSDl3cWtsTkdFQ2kwN2c0R3IybTg?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-10-16T12:11:00+00:00"
     },
     {
-      "title": "‘10·15 대책’ 1년 서울 주택시장 보니…강남 외면, 수요 중저가 지역에 몰렸다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JRnVnc3QxX3ljd05oa2gyYmZPam9hNkFOeU5STDQxVmdMUXk1cW9OajY0TGtoeDdsQzJqZnF2OTF3TWpNTU5fVzFjUVY3Vk1MZHR3cQ?oc=5",
-      "source": "매일경제",
-      "published": "2026-10-16T01:08:41+00:00"
+      "title": "금강선, 삼대장과 2주 뒤 '로이괜' 방송 예고",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBydVFZNkZ1dU1RQW9seGVKY0ZUall3RHZsZEFpWC1TODBBZ3pKdkdockJ1UDdNMkJnMHZhZ0lLalNWSTlObjB0SXQ4cjlXWnFsVGJfY3dWZHpEbU1TUGtDTWRUdlVFUVNQMkRidw?oc=5",
+      "source": "게임플",
+      "published": "2026-10-16T13:22:02+00:00"
     },
     {
       "title": "GTA6 국내 심의 통과... '청소년이용불가'로 11월 19일 출시 가능",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0VlBKZ2QteFJBNHphcTcwcGhGcU9nY0hjTUFOSERpNFlwTXZ2VEdyNkpUaHBCang0SDVwZlpTRU95a09SYVRSTEd1cw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zUEVTeFB5UVAtNWxVYnVUazhuRWFWNGR2U05fc1c2UU5SYUViNXlCaW9jUjNQaUE4SnNHZVF0NVk2N2diZWpRMEJJZXlWZw?oc=5",
       "source": "전자신문",
       "published": "2026-10-16T08:16:53+00:00"
     },
     {
-      "title": "7만5000년전 네안데르탈인, 나무창에 찔려 숨졌나…\"사고인지, 피격인지는 몰라\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qTEk5RnZBZ3RHRVlfTF9UbjRBbTl4UzZHR3p2a2FYMk5SV0tNMFJ1Vm9OUG83bWd1SlNZamU2dG81UzRQLTR4b0oyUGRseFQ4ckxNZg?oc=5",
-      "source": "DongA Science",
-      "published": "2026-10-16T04:45:00+00:00"
-    },
-    {
-      "title": "남은 4개 클랜 이야기도... ‘파이어 엠블렘 만자천홍’ DLC 공개",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWGRtRWJCcEx3dFpkWmFGc1UtbmRZV0ZLM2ltWTNzUUg0TGdxc0ljdkdFYk9TbFFXUTdibmpiVTBfRUlZTVdKYjZnc25pa3RzMHhBVlZHQml4UTJyWHRKVEdKSWRuWDNV?oc=5",
-      "source": "PNN",
-      "published": "2026-10-16T06:34:26+00:00"
+      "title": "[사이언스카페] 윤초 대신 윤시, 수천년은 시간 조정 안한다 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTc2MVR3NlFFcUwyUG0yS1otN0ptRF9nbFFyV0d5NzhtakRjWnR4cUNzem1PclZOSzB2djZTRFVsTFJKaEZTNE5TZnFwR2thUEFCYlJXcGZWZnlLV0dZMzhpYmF6RnhBX0hxUGxaTmFWRjdiNnBjdXZsekNSYmxQeFAtdUM1Sjd2NE00MdIBoAFBVV95cUxPZnJWVVdKdWpKRDhHRlB4Z3dQYlFrMUR0X2drc01rZVdTdk1DeDRqSHNqMTBaZlR2SlViWWxCd2RkZFQ0WnhzSEJkbUgtODUzR3MxR19qZDV2WkdwbTRpbThJTk1WcFRJTWxLdGx3T1RpejdsbVpYRFU5TlVOYk5pUHNpMkFjUmNTZnN6aVVkeXhoZ3FYU0x6U0FlSFpiOFJp?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-15T22:09:00+00:00"
     },
     {
       "title": "밤하늘 나는 ‘우주 해파리’?…스페이스X 로켓이 남긴 우주쇼 [우주를 보다]",
@@ -138,49 +138,49 @@
       "title": "‘나혼산’ 전현무 즉흥 여행 대본 의혹...MBC “촬영 허가용 예시일 뿐”",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12eFFMNWpmYkI2NGxNRWlfdENjSVpOSVA0LWVCakdPM0laRGEzVU5TZlFlVFlodjA4UVgweng1Vl83eEtHREpucFJYZUc2Q29scjU5dF84ME1JR2djampjQW9sUDFLdktGekZ6Qm9jUnFydw?oc=5",
       "source": "한겨레",
-      "published": "2026-10-16T08:06:00+00:00"
+      "published": "2026-10-16T11:18:00+00:00"
     },
     {
-      "title": "'48세' 하지원, 실물은 29살?..20살 어려 보이는 동안 미모 '깜짝' ('26학번 지원이')",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVN6M1o3aEZiUTRKdHJsVnktWm9HRTlFWmlvLVdSbHdJR1oyWEkyd2V6U2stbDZjeFpheURVaFpnSUlPVUhEakhKSWtnQXhBWHRrV0tJSVpQUUVkWXRiUEI3NHVNNmoyaTN3SFZRUzg5ekdQbE0wWVF3bzhCLTF1ZEwxcmhWYzdJU0FHdGd0NA?oc=5",
+      "title": "김요한♥오연희, ‘공개연애’ 2주만 결혼하나.. 슈트·드레스 입고 ‘미래 상상’ (‘신랑수업2’)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjUzOVFZNFJCalNPQmxHNnU5NlpxU2V5QUdKSE9seEo4WHBGZ28zUlZXTzhZRUxrR1RXMzB3bC1wWlJiODFpcVVyMWVKdkhBODQweWJ3U1RKZTdacUJTZl95RU1lUGhrS1RRRFZWZC1kdlI3WW9jVXduU0ZoOWN1TF8yVGRJdTJaSE03OTRDVQ?oc=5",
       "source": "조선일보",
-      "published": "2026-10-15T23:20:00+00:00"
+      "published": "2026-10-16T13:26:00+00:00"
     },
     {
-      "title": "병무청, '근무지 무단이탈' 위너 송민호에 재복무 통지하기로",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85SG0yeEtZTU4yUEpfQ1g1NEtrVUhmbDRVMnozMG9jNjRFaWRmQXFOVTctUWxvbWV4OTN5b1hLemtIaHVQNzNuRnpoU21URFhNZlVSMWVOUm51V2dMS3Z4eVNtYzVIT0k3eGVmUVBQaGdvZGc1YUJvMdIBeEFVX3lxTE9Ga0pfdHRTY2dJdzJIMU9UV0I5OHhaRDdWRlh5S3NzSVFWdzRuMlc2cGtjM0YtemNNaThrejRpRUxReE1ueHJ2RkhzSGlSN3JyUW5NMmNzeko5VklhNHpTTXdFalFJQmItNjg2REtSZ0s4aXZyRGRORg?oc=5",
-      "source": "MBC 뉴스",
-      "published": "2026-10-16T07:50:57+00:00"
+      "title": "구성환, 26살 연하 친구 공개..\"꽃분이 덕에 가까워져\" ('나혼산')",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3JoY0NJOWk0eDRIaDdJc3RxaXJJcmo3UGxWeWhScW01c20tRDhKcDEwdkk3TDlrXzRBeF9fZXZfMW5HeTJMYnJDRTQ5a0R0NHBBTUFLZW9acDZuNUdxNVBNdEdGSmVyV21KN0JjRGZhRnhtcDRjNWRtM1NWa3k2SE1xQjI4V2lGcWhldG81SQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-16T15:11:00+00:00"
     },
     {
-      "title": "하정우와 결혼 차정원, 시모와 4살 차이…7살 많은 선배 배우는 손아래 동서",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YRF8tX3FLWHNCT09KZ2ZtXzAyVnVlbEJKWkk1MnVuRDNNY1J0TXFTVHA0bzNaZFZKM2ZTT1pyUEx1ZEpaUGNvOTh5MTJIelFLc2JobA?oc=5",
-      "source": "매일경제",
-      "published": "2026-10-16T04:53:49+00:00"
+      "title": "[인터뷰] 관객에, 관객에 의한, 관객을 위한 영화제 - 정한석 부산국제영화제 집행위원장",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DaFZodjNCZURDUUY5VjBHQXZhcTNxTTE3dTFWWEJzUi1DSDBNVTZFY29yVGp0V3R6U3pENWJlcjIzWGxnNkNtRDBRQVFPbHFJZHhtWERR?oc=5",
+      "source": "씨네21",
+      "published": "2026-10-16T09:05:00+00:00"
     },
     {
-      "title": "“1·2번이 김도영 앞을 열어야”···이범호가 꼽은 준PO 승부처는",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqcHl1bDV1ZUNiRDRsUXVqN0xoRzZ3d0g0TUNSTm9EbkpJTEY3ZFFYUzlocWVabEVrS1pEUXY5blZiSkl3Y19uTmlQaFU?oc=5",
-      "source": "무등일보",
-      "published": "2026-10-16T07:33:00+00:00"
-    },
-    {
-      "title": "[준PO] KIA·LG 엔트리 발표...LG 손주영·신민재 부상 딛고 합류",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhZHFDZlhpcDhXeFZ0VkJnNUpCS3JyMWRzaW5WY3JrOWItQWFOMWJScFpOb0x2R0NGSnZGVUJOOTJnRHdjaHNIZHN5QUpSdDJubnVXanZ6MUhNUkRk?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-10-16T08:21:00+00:00"
-    },
-    {
-      "title": "'연고지엔 사무국도 없다?' SOOP 배구단, '가성비 운영' 도마에[초점]",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zYVV5LUgyMV84empvbVNoeHQwSVBMUHpIaWtwN01vNXhNc0M1dm1DUHU5N3FXVUVuNlprYUJxR19icXNtRG9Wb0pGRjJwS3dKaGgxd1NaXzF5UTZaR2tSWXlDUFhteTZLWEdz0gFvQVVfeXFMTWxzcW1TUHJUeVBsTlBDSm1EYWpZSXRBdVdyMWJTdXI1anYxcC1DVTJYWDVrN1lyb19yTG4tN09VZHpXRTF1c0hleDdCMUVkNHlaa25INGVwXzRpVHRwRUsxWTJwV1otekFmUDlZelhv?oc=5",
-      "source": "한국아이닷컴",
-      "published": "2026-10-16T05:15:04+00:00"
-    },
-    {
-      "title": "김도영 vs 오스틴 '대포 경쟁'이 승부 가른다...준PO 앞두고 분위기 후끈",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6RDNTVk1XZmVhTS14LWxiLXpaM2ZzMnoyVXFMT05LQ0dxX3V1VE1LMkpxeG9IQlNCTU8wVk1MOG1vbkJTbGliZmN5LXFiN3lLcGJVWEwzVDlBNUV1b3c?oc=5",
+      "title": "한화 유니폼 입은 류지현 감독 \"지속가능한 강팀 만들겠다\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd3Z0UEY1ekZrbTF4b3RjaUVVWWxnWi1qR3AtSXpIRkJiYVdyNDNPbHg4Q09XZEs4cGwtaDEydjdZNTZLQjJxWGVyS2Vyc2s1MVIxUVhKYWd5QXVXeEE?oc=5",
       "source": "YTN",
-      "published": "2026-10-16T09:35:00+00:00"
+      "published": "2026-10-16T09:08:00+00:00"
+    },
+    {
+      "title": "“내가 조연이어도 좋아, 누군가는 해줄 것”···김도영, 준PO 자신감 드러냈다",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wc1QxTnhmX1FJWHdidV9kUWEtR294anF2aVZZVVE1VUhBamtnYk1vNFBqMnZyVXJsaW5PRG1tVFJsdjZGUjBraGd1b0M?oc=5",
+      "source": "무등일보",
+      "published": "2026-10-16T07:48:00+00:00"
+    },
+    {
+      "title": "밀워키 브루어스, LA 다저스 스윕하며 1982년 이후 첫 월드시리즈 진출",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY20xMUJVdFJTNk9zNU1VeGJlV20xdlg2TlZCZXhFbGVmTjFJZnFvdUMwNUxpYlZsNHFKY1FSekROQ0xaanhyUmVWdE54dkE4T2JqdmJJOUwyRkh1d01oY1dNWTZEeUN0UTBWRmVYMmJNTV8yVU9vem1kUGdGZDF4M1Y5UjlNVWJIUlFBeUxqQUFzMjk1OXlYbGhiX3lqVkdVVHVQRjdQQmZJZHE4MGlEYg?oc=5",
+      "source": "Hypebeast.KR",
+      "published": "2026-10-16T08:20:56+00:00"
+    },
+    {
+      "title": "‘도움 15개’ 손흥민, LAFC 단일 시즌 리그 최다 도움 타이…메시와 ‘도움왕’ 경쟁도 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUXMwOVBpc3M5WEgyYm16WUU5TG55VzdEa1RQanU5Ni1KdjdEU1J6N3hQTm81Q2dqRWRfM25qVEhtcWxIbC1PZUo3bWxDQm9LUEJOWjlSbENhNzJ5V1E?oc=5",
+      "source": "스포츠경향",
+      "published": "2026-10-16T07:15:00+00:00"
     }
   ]
 }
