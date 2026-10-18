@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T00:11:55.194402+00:00",
-  "count": 2758,
+  "updated_at": "2026-10-18T22:44:44.799256+00:00",
+  "count": 2764,
   "items": [
     {
       "ticker": "060310",
@@ -1083,6 +1083,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "001080",
+      "name": "MH머트리얼즈",
+      "market": "KOSPI"
+    },
+    {
       "ticker": "023150",
       "name": "MH에탄올",
       "market": "KOSPI"
@@ -1425,6 +1430,11 @@
     {
       "ticker": "100090",
       "name": "SK오션플랜트",
+      "market": "KOSPI"
+    },
+    {
+      "ticker": "03473K",
+      "name": "SK우",
       "market": "KOSPI"
     },
     {
@@ -2045,6 +2055,11 @@
     {
       "ticker": "214330",
       "name": "금호에이치티",
+      "market": "KOSPI"
+    },
+    {
+      "ticker": "001210",
+      "name": "금호전기",
       "market": "KOSPI"
     },
     {
@@ -3293,11 +3308,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "000640",
-      "name": "동아쏘시오홀딩스",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "170900",
       "name": "동아에스티",
       "market": "KOSPI"
@@ -3306,6 +3316,11 @@
       "ticker": "088130",
       "name": "동아엘텍",
       "market": "KOSDAQ"
+    },
+    {
+      "ticker": "000640",
+      "name": "동아제약",
+      "market": "KOSPI"
     },
     {
       "ticker": "028100",
@@ -3320,6 +3335,11 @@
     {
       "ticker": "001527",
       "name": "동양2우B",
+      "market": "KOSPI"
+    },
+    {
+      "ticker": "084670",
+      "name": "동양고속",
       "market": "KOSPI"
     },
     {
@@ -3843,6 +3863,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "281740",
+      "name": "레이크머티리얼즈",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "277810",
       "name": "레인보우로보틱스",
       "market": "KOSDAQ"
@@ -4108,11 +4133,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "001080",
-      "name": "만호제강",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "0039P0",
       "name": "매드업",
       "market": "KOSDAQ"
@@ -4260,6 +4280,11 @@
     {
       "ticker": "058110",
       "name": "멕아이씨에스",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "179880",
+      "name": "멜콘",
       "market": "KOSDAQ"
     },
     {
@@ -7523,6 +7548,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "0008Z0",
+      "name": "에스엔시스",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "005850",
       "name": "에스엘",
       "market": "KOSPI"
@@ -7845,6 +7875,11 @@
     {
       "ticker": "021080",
       "name": "에이티넘인베스트",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "200470",
+      "name": "에이팩트",
       "market": "KOSDAQ"
     },
     {
@@ -10543,6 +10578,11 @@
       "market": "KOSPI"
     },
     {
+      "ticker": "250030",
+      "name": "진코스텍",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "002780",
       "name": "진흥기업",
       "market": "KOSPI"
@@ -12458,11 +12498,6 @@
       "market": "KOSDAQ"
     },
     {
-      "ticker": "469900",
-      "name": "하나31호스팩",
-      "market": "KOSDAQ"
-    },
-    {
       "ticker": "475240",
       "name": "하나32호스팩",
       "market": "KOSDAQ"
@@ -13150,11 +13185,6 @@
     {
       "ticker": "18064K",
       "name": "한진칼우",
-      "market": "KOSPI"
-    },
-    {
-      "ticker": "005110",
-      "name": "한창",
       "market": "KOSPI"
     },
     {
