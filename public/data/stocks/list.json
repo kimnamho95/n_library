@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T22:44:44.799256+00:00",
-  "count": 2764,
+  "updated_at": "2026-10-25T23:01:08.831726+00:00",
+  "count": 2766,
   "items": [
     {
       "ticker": "060310",
@@ -1239,7 +1239,7 @@
     },
     {
       "ticker": "091340",
-      "name": "S&K폴리텍",
+      "name": "S&K글로벌",
       "market": "KOSDAQ"
     },
     {
@@ -3738,6 +3738,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "0015M0",
+      "name": "디티에스",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "131180",
       "name": "딜리",
       "market": "KOSDAQ"
@@ -4754,7 +4759,7 @@
     },
     {
       "ticker": "457600",
-      "name": "벡트",
+      "name": "벡트로보틱스",
       "market": "KOSDAQ"
     },
     {
@@ -8178,6 +8183,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "0158S0",
+      "name": "엘리스",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "900140",
       "name": "엘브이엠씨홀딩스",
       "market": "KOSPI"
@@ -8266,6 +8276,11 @@
       "ticker": "484870",
       "name": "엠앤씨솔루션",
       "market": "KOSPI"
+    },
+    {
+      "ticker": "0013Y0",
+      "name": "엠에스바이오",
+      "market": "KOSDAQ"
     },
     {
       "ticker": "009780",
@@ -13735,11 +13750,6 @@
     {
       "ticker": "115160",
       "name": "휴맥스",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "028080",
-      "name": "휴맥스홀딩스",
       "market": "KOSDAQ"
     },
     {
