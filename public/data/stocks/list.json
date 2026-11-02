@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T23:01:08.831726+00:00",
-  "count": 2766,
+  "updated_at": "2026-11-02T00:12:15.680141+00:00",
+  "count": 2767,
   "items": [
     {
       "ticker": "060310",
@@ -1320,11 +1320,6 @@
     {
       "ticker": "005090",
       "name": "SGC에너지",
-      "market": "KOSPI"
-    },
-    {
-      "ticker": "001380",
-      "name": "SG글로벌",
       "market": "KOSPI"
     },
     {
@@ -3030,11 +3025,6 @@
     {
       "ticker": "003495",
       "name": "대한항공우",
-      "market": "KOSPI"
-    },
-    {
-      "ticker": "005880",
-      "name": "대한해운",
       "market": "KOSPI"
     },
     {
@@ -5698,11 +5688,6 @@
       "market": "KOSPI"
     },
     {
-      "ticker": "004415",
-      "name": "서울식품우",
-      "market": "KOSPI"
-    },
-    {
       "ticker": "063170",
       "name": "서울옥션",
       "market": "KOSDAQ"
@@ -6105,11 +6090,6 @@
     {
       "ticker": "032680",
       "name": "소프트센",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "032685",
-      "name": "소프트센우",
       "market": "KOSDAQ"
     },
     {
@@ -7628,6 +7608,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "0205H0",
+      "name": "에스케이증권제14호기업인수목적",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "475660",
       "name": "에스켐",
       "market": "KOSDAQ"
@@ -8335,6 +8320,11 @@
     {
       "ticker": "105550",
       "name": "엣지파운드리",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "359410",
+      "name": "영광",
       "market": "KOSDAQ"
     },
     {
@@ -9820,6 +9810,11 @@
     {
       "ticker": "064290",
       "name": "인텍플러스",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "420610",
+      "name": "인텔리빅스",
       "market": "KOSDAQ"
     },
     {
@@ -11433,6 +11428,11 @@
       "market": "KOSDAQ"
     },
     {
+      "ticker": "439270",
+      "name": "크리에이츠",
+      "market": "KOSDAQ"
+    },
+    {
       "ticker": "045520",
       "name": "크린앤사이언스",
       "market": "KOSDAQ"
@@ -11760,6 +11760,11 @@
     {
       "ticker": "340570",
       "name": "티앤엘",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "0053F0",
+      "name": "티앤이코리아",
       "market": "KOSDAQ"
     },
     {
@@ -12510,11 +12515,6 @@
     {
       "ticker": "417180",
       "name": "핑거스토리",
-      "market": "KOSDAQ"
-    },
-    {
-      "ticker": "475240",
-      "name": "하나32호스팩",
       "market": "KOSDAQ"
     },
     {
@@ -13340,6 +13340,11 @@
     {
       "ticker": "498390",
       "name": "한화플러스제5호스팩",
+      "market": "KOSDAQ"
+    },
+    {
+      "ticker": "0127E0",
+      "name": "한화플러스제6호스팩",
       "market": "KOSDAQ"
     },
     {
